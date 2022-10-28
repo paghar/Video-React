@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Icon /> Icon with 12px size  1`] = `
+.c0 {
+  font-family: 'FontAwesome' !important;
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<span
+  className="c0"
+  fontSize="12px"
+>
+  
+</span>
+`;
+
+exports[`<Icon /> Icon with 20px size 1`] = `
+.c0 {
+  font-family: 'FontAwesome' !important;
+  font-size: 20px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<span
+  className="c0"
+  fontSize="20px"
+>
+  
+</span>
+`;
+
+exports[`<Icon /> Icon with hover  1`] = `
+.c0 {
+  font-family: 'FontAwesome' !important;
+  font-size: 24px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<span
+  className="c0"
+  fontSize="24px"
+>
+  
+</span>
+`;
+
+exports[`<Icon /> Selectable Icon 1`] = `
+.c0 {
+  font-family: 'FontAwesome' !important;
+  font-size: 24px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+<span
+  className="c0"
+  fontSize="24px"
+>
+  
+</span>
+`;

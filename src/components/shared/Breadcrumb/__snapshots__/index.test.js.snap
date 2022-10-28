@@ -1,0 +1,115 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Breadcrumb /> checks the UI 1`] = `
+.c3 {
+  font-family: 'FontAwesome' !important;
+  font-size: 11px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  display: box;
+  list-style: none;
+  -webkit-align-items: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  pointer-events: none;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  outline: none;
+  border: none;
+  background: none;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.c4 {
+  padding: 0 13px;
+}
+
+.c2 {
+  pointer-events: auto;
+}
+
+<ul
+  className="c0"
+>
+  <li
+    className="c1"
+    onClick={[Function]}
+  >
+    <span
+      className="c2"
+    >
+      Projects
+    </span>
+  </li>
+  <li
+    className="c1"
+    onClick={[Function]}
+  >
+    <span
+      className="c3 c4"
+      fontSize="11px"
+    >
+      
+    </span>
+    <span
+      className="c2"
+    >
+      Animal House
+    </span>
+  </li>
+  <li
+    className="c1"
+    onClick={[Function]}
+  >
+    <span
+      className="c3 c4"
+      fontSize="11px"
+    >
+      
+    </span>
+    <span
+      className="c2"
+    >
+      Episode1
+    </span>
+  </li>
+</ul>
+`;

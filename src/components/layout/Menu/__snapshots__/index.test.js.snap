@@ -1,0 +1,930 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Menu /> when menu in close mode 1`] = `
+.c5 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c14 {
+  padding-bottom: 8px;
+  display: block;
+}
+
+.c15 {
+  -webkit-text-decoration-line: underline;
+  text-decoration-line: underline;
+  -webkit-text-decoration-style: solid;
+  text-decoration-style: solid;
+}
+
+.c3 {
+  background-color: #fff;
+  background-image: url(avasam-1.png);
+  background-size: 100% 100%;
+  width: 31px;
+  height: 31px;
+  border-radius: 100%;
+  border: 0px solid #0d0d1a;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  outline: none;
+}
+
+.c17 {
+  background-color: #fff;
+  background-image: url(christopher-campbell-rDEOVtE7vOs-unsplash.png);
+  background-size: 100% 100%;
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  border: 0px solid #0d0d1a;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  outline: none;
+}
+
+.c9 {
+  font-family: 'FontAwesome' !important;
+  font-size: 16px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c21 {
+  font-family: 'FontAwesome' !important;
+  font-size: 13px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c2 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  cursor: pointer;
+  margin: 21px 0px 50px 12px;
+}
+
+.c4 {
+  margin: 0px 12px 0px 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c7 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c10 {
+  margin: 0px 16px 0px 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c8 {
+  padding: 10px 0px 10px 0px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  cursor: pointer;
+}
+
+.c8::before {
+  content: ' ';
+  width: 4px;
+  height: 30px;
+  margin: 0px 14px 0px 0px;
+  visibility: hidden;
+}
+
+.c8:hover::before {
+  visibility: visible;
+}
+
+.c13 {
+  margin: 0px 0px 0px 23px;
+}
+
+.c26 .c6 {
+  opacity: 1;
+  -webkit-transition: opacity 300ms;
+  transition: opacity 300ms;
+}
+
+.c0 {
+  position: relative;
+  -webkit-transition: width 300ms;
+  transition: width 300ms;
+  width: 55px;
+  overflow: hidden;
+  height: 100vh;
+  margin: 0px;
+  padding: 0px;
+}
+
+.c0 .c6 {
+  opacity: 0;
+  -webkit-transition: opacity 300ms;
+  transition: opacity 300ms;
+}
+
+.c1 {
+  width: 208px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  height: 100%;
+  margin: 0px;
+}
+
+.c11 .c12 {
+  display: none;
+}
+
+.c22 {
+  font-size: 13px;
+  display: block;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c25 {
+  font-size: 16px;
+  display: block;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c19 {
+  direction: ltr;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c16 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin: 0px 12px 29px 12px;
+}
+
+.c18 {
+  -webkit-order: 3;
+  -ms-flex-order: 3;
+  order: 3;
+}
+
+.c20 {
+  -webkit-order: 1;
+  -ms-flex-order: 1;
+  order: 1;
+  margin: 0px 0px 16px 0px;
+}
+
+.c23 {
+  -webkit-order: 2;
+  -ms-flex-order: 2;
+  order: 2;
+  margin: 0px 0px 16px 0px;
+}
+
+.c24 {
+  -webkit-order: 4;
+  -ms-flex-order: 4;
+  order: 4;
+  margin: 63px 0px 0px 0px;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <div>
+      <div
+        className="c2"
+      >
+        <button
+          className="c3 c4"
+          height="31px"
+          width="31px"
+        />
+        <span
+          className="c5 c6 c7"
+        >
+          Avasam Agency
+        </span>
+      </div>
+      <div
+        className="c8"
+      >
+        <span
+          className="c9 c10"
+          fontSize="16px"
+        >
+          
+        </span>
+        <span
+          className="c5 c6 c7"
+        >
+          Workspace
+        </span>
+      </div>
+      <div
+        className="c8"
+      >
+        <span
+          className="c9 c10"
+          fontSize="16px"
+        >
+          
+        </span>
+        <span
+          className="c5 c6 c7"
+        >
+          Projects
+        </span>
+      </div>
+      <div
+        className="c8"
+      >
+        <span
+          className="c9 c10"
+          fontSize="16px"
+        >
+          
+        </span>
+        <span
+          className="c5 c6 c7"
+        >
+          Board
+        </span>
+      </div>
+      <div
+        className="c8"
+      >
+        <span
+          className="c9 c10"
+          fontSize="16px"
+        >
+          
+        </span>
+        <span
+          className="c5 c6 c7"
+        >
+          Links
+        </span>
+      </div>
+    </div>
+    <div
+      className="c11"
+    >
+      <div
+        className="c12 c13"
+      >
+        <span
+          className="c5 c14"
+        >
+          80
+           GB of 
+          250
+           GB used
+        </span>
+        <span
+          className="c5 c15"
+        >
+          Upgrade Now
+        </span>
+      </div>
+      <div
+        className="c16"
+      >
+        <button
+          className="c17 c18"
+          height="30px"
+          width="30px"
+        />
+        <button
+          className="c19 c20"
+          height="30px"
+          radius="100%"
+          width="30px"
+        >
+          <span
+            className="c21 c22"
+            fontSize="13px"
+          >
+            
+          </span>
+        </button>
+        <button
+          className="c19 c23"
+          height="30px"
+          radius="100%"
+          width="30px"
+        >
+          <span
+            className="c21 c22"
+            fontSize="13px"
+          >
+            
+          </span>
+        </button>
+        <button
+          className="c19 c24"
+          height="30px"
+          onClick={[Function]}
+          radius="100%"
+          width="30px"
+        >
+          <span
+            className="c9 c25"
+            fontSize="16px"
+          >
+            
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Menu /> when menu in open mode 1`] = `
+.c5 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c12 {
+  padding-bottom: 8px;
+  display: block;
+}
+
+.c13 {
+  -webkit-text-decoration-line: underline;
+  text-decoration-line: underline;
+  -webkit-text-decoration-style: solid;
+  text-decoration-style: solid;
+}
+
+.c3 {
+  background-color: #fff;
+  background-image: url(avasam-1.png);
+  background-size: 100% 100%;
+  width: 31px;
+  height: 31px;
+  border-radius: 100%;
+  border: 0px solid #0d0d1a;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  outline: none;
+}
+
+.c15 {
+  background-color: #fff;
+  background-image: url(christopher-campbell-rDEOVtE7vOs-unsplash.png);
+  background-size: 100% 100%;
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  border: 0px solid #0d0d1a;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  outline: none;
+}
+
+.c9 {
+  font-family: 'FontAwesome' !important;
+  font-size: 16px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c19 {
+  font-family: 'FontAwesome' !important;
+  font-size: 13px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c2 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  cursor: pointer;
+  margin: 21px 0px 50px 12px;
+}
+
+.c4 {
+  margin: 0px 12px 0px 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c7 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c10 {
+  margin: 0px 16px 0px 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c8 {
+  padding: 10px 0px 10px 0px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  cursor: pointer;
+}
+
+.c8::before {
+  content: ' ';
+  width: 4px;
+  height: 30px;
+  margin: 0px 14px 0px 0px;
+  visibility: hidden;
+}
+
+.c8:hover::before {
+  visibility: visible;
+}
+
+.c11 {
+  margin: 0px 0px 0px 23px;
+}
+
+.c0 {
+  position: relative;
+  -webkit-transition: width 300ms;
+  transition: width 300ms;
+  width: 208px;
+  overflow: hidden;
+  height: 100vh;
+  margin: 0px;
+  padding: 0px;
+}
+
+.c0 .c6 {
+  opacity: 1;
+  -webkit-transition: opacity 300ms;
+  transition: opacity 300ms;
+}
+
+.c1 {
+  width: 208px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  height: 100%;
+  margin: 0px;
+}
+
+.c20 {
+  font-size: 13px;
+  display: block;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c23 {
+  font-size: 16px;
+  display: block;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c17 {
+  direction: ltr;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c14 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 31px 0px 28px 22px;
+}
+
+.c16 {
+  -webkit-order: 1;
+  -ms-flex-order: 1;
+  order: 1;
+  margin-right: 15px;
+}
+
+.c18 {
+  -webkit-order: 2;
+  -ms-flex-order: 2;
+  order: 2;
+  margin-right: 15px;
+}
+
+.c21 {
+  -webkit-order: 3;
+  -ms-flex-order: 3;
+  order: 3;
+  margin-right: 15px;
+}
+
+.c22 {
+  -webkit-order: 4;
+  -ms-flex-order: 4;
+  order: 4;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <div>
+      <div
+        className="c2"
+      >
+        <button
+          className="c3 c4"
+          height="31px"
+          width="31px"
+        />
+        <span
+          className="c5 c6 c7"
+        >
+          Avasam Agency
+        </span>
+      </div>
+      <div
+        className="c8"
+      >
+        <span
+          className="c9 c10"
+          fontSize="16px"
+        >
+          
+        </span>
+        <span
+          className="c5 c6 c7"
+        >
+          Workspace
+        </span>
+      </div>
+      <div
+        className="c8"
+      >
+        <span
+          className="c9 c10"
+          fontSize="16px"
+        >
+          
+        </span>
+        <span
+          className="c5 c6 c7"
+        >
+          Projects
+        </span>
+      </div>
+      <div
+        className="c8"
+      >
+        <span
+          className="c9 c10"
+          fontSize="16px"
+        >
+          
+        </span>
+        <span
+          className="c5 c6 c7"
+        >
+          Board
+        </span>
+      </div>
+      <div
+        className="c8"
+      >
+        <span
+          className="c9 c10"
+          fontSize="16px"
+        >
+          
+        </span>
+        <span
+          className="c5 c6 c7"
+        >
+          Links
+        </span>
+      </div>
+    </div>
+    <div
+      className=""
+    >
+      <div
+        className="c11"
+      >
+        <span
+          className="c5 c12"
+        >
+          80
+           GB of 
+          250
+           GB used
+        </span>
+        <span
+          className="c5 c13"
+        >
+          Upgrade Now
+        </span>
+      </div>
+      <div
+        className="c14"
+      >
+        <button
+          className="c15 c16"
+          height="30px"
+          width="30px"
+        />
+        <button
+          className="c17 c18"
+          height="30px"
+          radius="100%"
+          width="30px"
+        >
+          <span
+            className="c19 c20"
+            fontSize="13px"
+          >
+            
+          </span>
+        </button>
+        <button
+          className="c17 c21"
+          height="30px"
+          radius="100%"
+          width="30px"
+        >
+          <span
+            className="c19 c20"
+            fontSize="13px"
+          >
+            
+          </span>
+        </button>
+        <button
+          className="c17 c22"
+          height="30px"
+          onClick={[Function]}
+          radius="100%"
+          width="30px"
+        >
+          <span
+            className="c9 c23"
+            fontSize="16px"
+          >
+            
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

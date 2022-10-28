@@ -1,0 +1,229 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Input /> checks the UI 1`] = `
+.c2 {
+  font-family: 'FontAwesome' !important;
+  font-size: 22px;
+  color: #7b7b9a;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c1 {
+  outline: none;
+  border: none;
+  background: none;
+  width: 100%;
+  color: #7b7b9a;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.c1 {
+  outline: none;
+  border: none;
+  background: none;
+  width: 100%;
+  color: #7b7b9a;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.c1 {
+  outline: none;
+  border: none;
+  background: none;
+  width: 100%;
+  color: #7b7b9a;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.c1 {
+  outline: none;
+  border: none;
+  background: none;
+  width: 100%;
+  color: #7b7b9a;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.c3 {
+  padding-right: 25px;
+  padding-left: 0px;
+  color: #7b7b9a;
+  font-size: 22px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c0 {
+  box-sizing: border-box;
+  -webkit-align-content: stretch;
+  -ms-flex-line-pack: stretch;
+  align-content: stretch;
+  direction: rtl;
+  border-radius: 40px;
+  background-color: #212133;
+  width: 383px;
+  height: 53px;
+  padding-right: 25px;
+  padding-left: 25px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+<div
+  className="c0"
+  height="53px"
+  width="383px"
+>
+  <input
+    className="c1"
+    placeholder="Results"
+  />
+  <span
+    className="c2 c3"
+    fontSize="22px"
+  >
+    
+  </span>
+</div>
+`;
+
+exports[`<Input /> checks the reverse UI 1`] = `
+.c2 {
+  font-family: 'FontAwesome' !important;
+  font-size: 22px;
+  color: #7b7b9a;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c1 {
+  outline: none;
+  border: none;
+  background: none;
+  width: 100%;
+  color: #7b7b9a;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.c1 {
+  outline: none;
+  border: none;
+  background: none;
+  width: 100%;
+  color: #7b7b9a;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.c1 {
+  outline: none;
+  border: none;
+  background: none;
+  width: 100%;
+  color: #7b7b9a;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.c1 {
+  outline: none;
+  border: none;
+  background: none;
+  width: 100%;
+  color: #7b7b9a;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.c3 {
+  padding-right: 0px;
+  padding-left: 25px;
+  color: #7b7b9a;
+  font-size: 22px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c0 {
+  box-sizing: border-box;
+  -webkit-align-content: stretch;
+  -ms-flex-line-pack: stretch;
+  align-content: stretch;
+  direction: ltr;
+  border-radius: 40px;
+  background-color: #212133;
+  width: 383px;
+  height: 53px;
+  padding-right: 25px;
+  padding-left: 25px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+<div
+  className="c0"
+  height="53px"
+  width="383px"
+>
+  <input
+    className="c1"
+    placeholder="Search here..."
+  />
+  <span
+    className="c2 c3"
+    fontSize="22px"
+  >
+    
+  </span>
+</div>
+`;

@@ -1,0 +1,702 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CardsHolder /> checks snapshot of holder 1`] = `
+.c7 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c5 {
+  font-family: 'FontAwesome' !important;
+  font-size: 35px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c19 {
+  font-family: 'FontAwesome' !important;
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c20 {
+  font-size: 12px;
+  display: block;
+  padding-right: 0;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c16 {
+  direction: ltr;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  border-radius: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c16:hover {
+  background-color: transparent;
+}
+
+.c6 {
+  margin-top: -14px;
+}
+
+.c8 {
+  text-align: center;
+  margin-top: 7px;
+}
+
+.c4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 19;
+  display: none;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  background-color: rgba(0,0,0,0.28);
+}
+
+.c4::after {
+  content: '';
+  position: absolute;
+  width: 23px;
+  height: 9px;
+  top: 0;
+  left: 111px;
+  background-color: #263c75;
+}
+
+.c18 {
+  margin: 10px 2px 0 0;
+  padding-right: 0px;
+  display: none;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  cursor: pointer;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+}
+
+.c10 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  width: 100%;
+  min-width: 100%;
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-bottom: 14px;
+  padding-top: 9px;
+  margin-top: 0;
+  border-radius: 0 7px 7px 7px;
+  box-shadow: 0 0 0 3px transparent;
+  z-index: 17;
+}
+
+.c10::after {
+  content: '';
+  display: inline-block;
+  position: absolute;
+  box-shadow: -3px -2px 0 1px transparent;
+  z-index: -1;
+  top: -8px;
+  left: 111px;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+  width: 20px;
+  height: 12px;
+}
+
+.c10::before {
+  z-index: 0;
+  box-shadow: -2px -3px 0 1px transparent;
+  content: '';
+  display: inline-block;
+  position: absolute;
+  top: -14px;
+  left: 0px;
+  width: 118px;
+  height: 14px;
+  border-radius: 7px 0 0 0;
+}
+
+.c10:hover .c17 {
+  display: block;
+}
+
+.c11 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 138px;
+  -webkit-align-items: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.c12 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  margin: 0 0 0 2px;
+  height: 20px;
+}
+
+.c13 {
+  white-space: nowrap;
+  margin: 8px 0 0 2px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+  outline: none;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c14 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+}
+
+.c15 {
+  outline: none;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  margin: 8px 2px 0 0;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 250px;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 15px;
+  padding: 0;
+  background-color: transparent;
+  border-radius: 0px;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: -webkit-transform 250ms;
+  -webkit-transition: transform 250ms;
+  transition: transform 250ms;
+  pointer-events: auto;
+}
+
+.c2:hover {
+  cursor: pointer;
+}
+
+.c2:hover .c25 {
+  visibility: visible !important;
+}
+
+.c24:hover .c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c24:hover .c9 {
+  box-shadow: 0 0 0 3px;
+}
+
+.c24:hover .c9::after {
+  background-color: #263c75;
+  box-shadow: -3px -2px 0 1px;
+}
+
+.c24:hover .c9::before {
+  background-color: #263c75;
+  box-shadow: -2px -3px 0 1px;
+}
+
+.c23 {
+  border-radius: 10px;
+  width: 3px !important;
+  opacity: 0.3;
+}
+
+.c22 {
+  height: 100%;
+  right: 0px;
+  margin-top: 5px;
+  border-radius: 10px;
+  width: 2px !important;
+  padding: 5px 0px;
+}
+
+.c21 {
+  border: none;
+  width: 21px;
+  height: 190px;
+  content: ' ';
+}
+
+.c21::after {
+  content: '';
+  position: absolute;
+  margin-left: 11px;
+  margin-top: 12px;
+  width: 2px;
+  display: none;
+  height: 178px;
+}
+
+.c1 {
+  border: none;
+  width: 21px;
+  height: 190px;
+  content: ' ';
+  position: absolute;
+  z-index: 999;
+}
+
+.c1::after {
+  content: '';
+  position: absolute;
+  margin-left: 11px;
+  margin-top: 12px;
+  width: 2px;
+  display: none;
+  height: 178px;
+}
+
+.c1::after {
+  margin-left: 0;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  width: 98%;
+  margin-left: 30px;
+  margin-right: 0px;
+  margin-bottom: 15px;
+  -webkit-transform: translate3d(0,0,0);
+  -ms-transform: translate3d(0,0,0);
+  transform: translate3d(0,0,0);
+}
+
+.c0 > figure {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  z-index: 20;
+  width: auto;
+  height: auto;
+  margin-left: 3px;
+  margin-bottom: 6px;
+  margin-right: 0;
+  margin-top: 3px;
+}
+
+.c0 > figure[data-type='folder'] {
+  margin-bottom: 9px;
+}
+
+.c0 > figure[data-type='asset'] {
+  margin-top: 6px;
+}
+
+@media (max-width:1140px) {
+  .c2 {
+    width: 250px;
+  }
+}
+
+<div
+  style={
+    Object {
+      "height": "100%",
+      "overflow": "hidden",
+      "position": "relative",
+      "width": "100%",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "WebkitOverflowScrolling": "touch",
+        "bottom": 0,
+        "left": 0,
+        "marginBottom": 0,
+        "marginRight": 0,
+        "overflow": "scroll",
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      }
+    }
+  >
+    <div
+      className="c0"
+    >
+      <figure
+        className="react-draggable"
+        data-id="0"
+        data-order={1}
+        data-type="folder"
+        onMouseDown={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        style={
+          Object {
+            "order": 1,
+            "touchAction": "none",
+            "transform": "translate(0px,0px)",
+          }
+        }
+        transform={null}
+      >
+        <hr
+          className="c1"
+          data-id="-1"
+          data-type="gutter"
+        />
+        <div
+          className="c2"
+          onMouseDown={[Function]}
+          width={250}
+        >
+          <div
+            className="c3 c4"
+          >
+            <span
+              className="c5 c6"
+              fontSize="35px"
+            >
+              
+            </span>
+            <span
+              className="c7 c8"
+            >
+              Add to Folder
+            </span>
+          </div>
+          <div
+            className="c9 c10"
+            width={250}
+          >
+            <div
+              className="c11"
+            />
+            <div
+              className="c12"
+            >
+              <span
+                className="c7 c13"
+              >
+                Hiking Experience
+              </span>
+              <div
+                className="c14"
+              >
+                <span
+                  className="c7 c15"
+                >
+                  0
+                   files
+                </span>
+                <button
+                  className="c16 c17 c18"
+                  height="auto"
+                  radius="0px"
+                  width="auto"
+                >
+                  <span
+                    className="c19 c20"
+                    fontSize="12px"
+                  >
+                    
+                  </span>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <hr
+          className="c21"
+          data-id="0"
+          data-type="gutter"
+        />
+      </figure>
+      <figure
+        className="react-draggable"
+        data-id="1"
+        data-order={2}
+        data-type="folder"
+        onMouseDown={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        style={
+          Object {
+            "order": 2,
+            "touchAction": "none",
+            "transform": "translate(0px,0px)",
+          }
+        }
+        transform={null}
+      >
+        <div
+          className="c2"
+          onMouseDown={[Function]}
+          width={250}
+        >
+          <div
+            className="c3 c4"
+          >
+            <span
+              className="c5 c6"
+              fontSize="35px"
+            >
+              
+            </span>
+            <span
+              className="c7 c8"
+            >
+              Add to Folder
+            </span>
+          </div>
+          <div
+            className="c9 c10"
+            width={250}
+          >
+            <div
+              className="c11"
+            />
+            <div
+              className="c12"
+            >
+              <span
+                className="c7 c13"
+              >
+                Going into mountains Experience
+              </span>
+              <div
+                className="c14"
+              >
+                <span
+                  className="c7 c15"
+                >
+                  0
+                   files
+                </span>
+                <button
+                  className="c16 c17 c18"
+                  height="auto"
+                  radius="0px"
+                  width="auto"
+                >
+                  <span
+                    className="c19 c20"
+                    fontSize="12px"
+                  >
+                    
+                  </span>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <hr
+          className="c21"
+          data-id="1"
+          data-type="gutter"
+        />
+      </figure>
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "borderRadius": 3,
+        "bottom": 2,
+        "display": "none",
+        "height": 6,
+        "left": 2,
+        "opacity": 0,
+        "position": "absolute",
+        "right": 2,
+        "transition": "opacity 200ms",
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "backgroundColor": "rgba(0,0,0,.2)",
+          "borderRadius": "inherit",
+          "cursor": "pointer",
+          "display": "block",
+          "height": "100%",
+          "position": "relative",
+        }
+      }
+    />
+  </div>
+  <div
+    className="c22"
+    style={
+      Object {
+        "display": "none",
+        "opacity": 0,
+        "position": "absolute",
+        "transition": "opacity 200ms",
+        "width": 6,
+      }
+    }
+  >
+    <div
+      className="c23"
+      style={
+        Object {
+          "display": "block",
+          "position": "relative",
+          "width": "100%",
+        }
+      }
+    />
+  </div>
+</div>
+`;

@@ -1,0 +1,659 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FolderCardListView /> checks  UI 1`] = `
+.c2 {
+  pointer-events: auto;
+}
+
+.c4 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c8 {
+  font-family: 'FontAwesome' !important;
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c17 {
+  font-size: 12px;
+  display: block;
+  padding-right: 0;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c14 {
+  direction: ltr;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  border-radius: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c14:hover {
+  background-color: transparent;
+}
+
+.c1 {
+  margin-left: 9px;
+  display: grid;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c3 {
+  display: block;
+  white-space: nowrap;
+  pointer-events: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.c5 {
+  outline: none;
+  -webkit-align-self: auto;
+  -ms-flex-item-align: auto;
+  align-self: auto;
+  pointer-events: none;
+  margin: 0;
+}
+
+.c6 {
+  width: 113px;
+  display: block;
+  pointer-events: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  min-width: 46px;
+}
+
+.c9 {
+  margin-left: 3px;
+  pointer-events: none;
+  margin-bottom: 5px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c10 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  pointer-events: none;
+  min-width: 42px;
+}
+
+.c11 {
+  width: 55px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c12 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  pointer-events: none;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  min-width: 86px;
+}
+
+.c13 {
+  width: 98px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c16 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  visibility: hidden;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  position: absolute;
+  right: 12px;
+}
+
+.c16:hover {
+  cursor: pointer;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: calc(100% - 89px);
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+
+.c0:hover .c15 {
+  visibility: visible !important;
+}
+
+@media (min-width:1141px) {
+  .c1 {
+    width: 213px;
+  }
+}
+
+@media (max-width:1140px) {
+  .c1 {
+    min-width: 78px;
+    width: 20%;
+  }
+}
+
+@media (max-width:1140px) {
+  .c6 {
+    width: 12%;
+    min-width: 68px;
+  }
+}
+
+@media (max-width:1140px) {
+  .c11 {
+    display: none;
+  }
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <span
+      className="c2 c3"
+    >
+      Hiking Experience
+    </span>
+    <span
+      className="c4 c5"
+    >
+      3
+       files
+    </span>
+  </div>
+  <span
+    className="c2 c6"
+  >
+    Emily Parkson
+  </span>
+  <div
+    className="c7"
+  >
+    <span
+      className="c8 c9"
+      fontSize="12px"
+    >
+      
+    </span>
+  </div>
+  <span
+    className="c2 c10"
+  >
+    12 MB
+  </span>
+  <div
+    className="c11"
+  >
+    <span
+      className="c8 c9"
+      fontSize="12px"
+    >
+      
+    </span>
+  </div>
+  <span
+    className="c2 c12"
+  >
+    22th-MAR-22:20
+  </span>
+  <div
+    className="c13"
+  >
+    <span
+      className="c8 c9"
+      fontSize="12px"
+    >
+      
+    </span>
+  </div>
+  <button
+    className="c14 c15 c16"
+    height="auto"
+    radius="0px"
+    width="auto"
+  >
+    <span
+      className="c8 c17"
+      fontSize="12px"
+    >
+      
+    </span>
+  </button>
+</div>
+`;
+
+exports[`<FolderCardListView /> checks UI selected 1`] = `
+.c2 {
+  pointer-events: auto;
+}
+
+.c4 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c8 {
+  font-family: 'FontAwesome' !important;
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c17 {
+  font-size: 12px;
+  display: block;
+  padding-right: 0;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c14 {
+  direction: ltr;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  border-radius: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c14:hover {
+  background-color: transparent;
+}
+
+.c1 {
+  margin-left: 9px;
+  display: grid;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c3 {
+  display: block;
+  white-space: nowrap;
+  pointer-events: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.c5 {
+  outline: none;
+  -webkit-align-self: auto;
+  -ms-flex-item-align: auto;
+  align-self: auto;
+  pointer-events: none;
+  margin: 0;
+}
+
+.c6 {
+  width: 113px;
+  display: block;
+  pointer-events: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  min-width: 46px;
+}
+
+.c9 {
+  margin-left: 3px;
+  pointer-events: none;
+  margin-bottom: 5px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c10 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  pointer-events: none;
+  min-width: 42px;
+}
+
+.c11 {
+  width: 55px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c12 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  pointer-events: none;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  min-width: 86px;
+}
+
+.c13 {
+  width: 98px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c16 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  visibility: visible;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  position: absolute;
+  right: 12px;
+}
+
+.c16:hover {
+  cursor: pointer;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: calc(100% - 89px);
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+
+.c0:hover .c15 {
+  visibility: visible !important;
+}
+
+@media (min-width:1141px) {
+  .c1 {
+    width: 213px;
+  }
+}
+
+@media (max-width:1140px) {
+  .c1 {
+    min-width: 78px;
+    width: 20%;
+  }
+}
+
+@media (max-width:1140px) {
+  .c6 {
+    width: 12%;
+    min-width: 68px;
+  }
+}
+
+@media (max-width:1140px) {
+  .c11 {
+    display: none;
+  }
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <span
+      className="c2 c3"
+    >
+      Hiking Experience
+    </span>
+    <span
+      className="c4 c5"
+    >
+      3
+       files
+    </span>
+  </div>
+  <span
+    className="c2 c6"
+  >
+    Emily Parkson
+  </span>
+  <div
+    className="c7"
+  >
+    <span
+      className="c8 c9"
+      fontSize="12px"
+    >
+      
+    </span>
+  </div>
+  <span
+    className="c2 c10"
+  >
+    12 MB
+  </span>
+  <div
+    className="c11"
+  >
+    <span
+      className="c8 c9"
+      fontSize="12px"
+    >
+      
+    </span>
+  </div>
+  <span
+    className="c2 c12"
+  >
+    22th-MAR-22:20
+  </span>
+  <div
+    className="c13"
+  >
+    <span
+      className="c8 c9"
+      fontSize="12px"
+    >
+      
+    </span>
+  </div>
+  <button
+    className="c14 c15 c16"
+    height="auto"
+    radius="0px"
+    width="auto"
+  >
+    <span
+      className="c8 c17"
+      fontSize="12px"
+    >
+      
+    </span>
+  </button>
+</div>
+`;

@@ -1,0 +1,845 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AssetCardDetail /> AssetCardDetail Snapshot test with all details 1`] = `
+.c2 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c7 {
+  font-family: 'FontAwesome' !important;
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c8 {
+  font-size: 12px;
+  display: block;
+  padding-right: 0;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c13 {
+  font-size: 12px;
+  display: block;
+  padding-right: 4px;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c5 {
+  direction: ltr;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  border-radius: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c5:hover {
+  background-color: transparent;
+}
+
+.c0 {
+  position: relative;
+  padding-left: 10px;
+  padding-right: 5px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-pack: end;
+  -webkit-justify-content: end;
+  -ms-flex-pack: end;
+  justify-content: end;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 2.4%;
+  margin-bottom: auto;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: auto;
+  margin-bottom: 3.3%;
+}
+
+.c3 {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.c4 {
+  padding-right: 4px;
+}
+
+.c10 {
+  height: 21px;
+  border-radius: 5px;
+  text-align: center;
+  padding-right: 7px;
+  padding-left: 7px;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.c11 {
+  width: auto;
+}
+
+.c12 {
+  margin-left: auto;
+}
+
+.c6 {
+  margin-left: auto;
+  margin-right: 6px;
+  padding-right: 0;
+  visibility: hidden;
+  cursor: pointer;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <span
+      className="c2 c3"
+    >
+      My beautiful picture
+    </span>
+    <span
+      className="c2 c4"
+    >
+      .
+      mp4
+    </span>
+    <button
+      className="c5 c6"
+      height="auto"
+      radius="0px"
+      width="auto"
+    >
+      <span
+        className="c7 c8"
+        fontSize="12px"
+      >
+        
+      </span>
+    </button>
+  </div>
+  <div
+    className="c9"
+  >
+    <span
+      className="c2 c10"
+    >
+      12:00
+    </span>
+    <span
+      className="c2 c11"
+    >
+      16 MB
+    </span>
+    <button
+      className="c5 c12"
+      height="auto"
+      radius="0px"
+      width="auto"
+    >
+      <span
+        className="c7 c13"
+        fontSize="12px"
+      >
+        
+      </span>
+      <span
+        className="c2"
+      >
+        6
+      </span>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`<AssetCardDetail /> AssetCardDetail Snapshot test with all details execpt comments 1`] = `
+.c2 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c7 {
+  font-family: 'FontAwesome' !important;
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c8 {
+  font-size: 12px;
+  display: block;
+  padding-right: 0;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c5 {
+  direction: ltr;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  border-radius: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c5:hover {
+  background-color: transparent;
+}
+
+.c0 {
+  position: relative;
+  padding-left: 10px;
+  padding-right: 5px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-pack: end;
+  -webkit-justify-content: end;
+  -ms-flex-pack: end;
+  justify-content: end;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 2.4%;
+  margin-bottom: auto;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: auto;
+  margin-bottom: 3.3%;
+}
+
+.c3 {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.c4 {
+  padding-right: 4px;
+}
+
+.c10 {
+  height: 21px;
+  border-radius: 5px;
+  text-align: center;
+  padding-right: 7px;
+  padding-left: 7px;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.c11 {
+  width: auto;
+}
+
+.c6 {
+  margin-left: auto;
+  margin-right: 6px;
+  padding-right: 0;
+  visibility: hidden;
+  cursor: pointer;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <span
+      className="c2 c3"
+    >
+      My beautiful picture
+    </span>
+    <span
+      className="c2 c4"
+    >
+      .
+      mp4
+    </span>
+    <button
+      className="c5 c6"
+      height="auto"
+      radius="0px"
+      width="auto"
+    >
+      <span
+        className="c7 c8"
+        fontSize="12px"
+      >
+        
+      </span>
+    </button>
+  </div>
+  <div
+    className="c9"
+  >
+    <span
+      className="c2 c10"
+    >
+      12:00
+    </span>
+    <span
+      className="c2 c11"
+    >
+      16 MB
+    </span>
+  </div>
+</div>
+`;
+
+exports[`<AssetCardDetail /> AssetCardDetail Snapshot test with all details execpt comments and duration 1`] = `
+.c2 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c7 {
+  font-family: 'FontAwesome' !important;
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c8 {
+  font-size: 12px;
+  display: block;
+  padding-right: 0;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c5 {
+  direction: ltr;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  border-radius: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c5:hover {
+  background-color: transparent;
+}
+
+.c0 {
+  position: relative;
+  padding-left: 10px;
+  padding-right: 5px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-pack: end;
+  -webkit-justify-content: end;
+  -ms-flex-pack: end;
+  justify-content: end;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 2.4%;
+  margin-bottom: auto;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: auto;
+  margin-bottom: 3.3%;
+}
+
+.c3 {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.c4 {
+  padding-right: 4px;
+}
+
+.c10 {
+  width: auto;
+}
+
+.c6 {
+  margin-left: auto;
+  margin-right: 6px;
+  padding-right: 0;
+  visibility: hidden;
+  cursor: pointer;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <span
+      className="c2 c3"
+    >
+      My beautiful picture
+    </span>
+    <span
+      className="c2 c4"
+    >
+      .
+      mp4
+    </span>
+    <button
+      className="c5 c6"
+      height="auto"
+      radius="0px"
+      width="auto"
+    >
+      <span
+        className="c7 c8"
+        fontSize="12px"
+      >
+        
+      </span>
+    </button>
+  </div>
+  <div
+    className="c9"
+  >
+    <span
+      className="c2 c10"
+    >
+      16 MB
+    </span>
+  </div>
+</div>
+`;
+
+exports[`<AssetCardDetail /> AssetCardDetail Snapshot test with all details execpt duration 1`] = `
+.c2 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c7 {
+  font-family: 'FontAwesome' !important;
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c8 {
+  font-size: 12px;
+  display: block;
+  padding-right: 0;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c12 {
+  font-size: 12px;
+  display: block;
+  padding-right: 4px;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c5 {
+  direction: ltr;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  border-radius: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c5:hover {
+  background-color: transparent;
+}
+
+.c0 {
+  position: relative;
+  padding-left: 10px;
+  padding-right: 5px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-pack: end;
+  -webkit-justify-content: end;
+  -ms-flex-pack: end;
+  justify-content: end;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 2.4%;
+  margin-bottom: auto;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: auto;
+  margin-bottom: 3.3%;
+}
+
+.c3 {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.c4 {
+  padding-right: 4px;
+}
+
+.c10 {
+  width: auto;
+}
+
+.c11 {
+  margin-left: auto;
+}
+
+.c6 {
+  margin-left: auto;
+  margin-right: 6px;
+  padding-right: 0;
+  visibility: hidden;
+  cursor: pointer;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <span
+      className="c2 c3"
+    >
+      My beautiful picture
+    </span>
+    <span
+      className="c2 c4"
+    >
+      .
+      mp4
+    </span>
+    <button
+      className="c5 c6"
+      height="auto"
+      radius="0px"
+      width="auto"
+    >
+      <span
+        className="c7 c8"
+        fontSize="12px"
+      >
+        
+      </span>
+    </button>
+  </div>
+  <div
+    className="c9"
+  >
+    <span
+      className="c2 c10"
+    >
+      16 MB
+    </span>
+    <button
+      className="c5 c11"
+      height="auto"
+      radius="0px"
+      width="auto"
+    >
+      <span
+        className="c7 c12"
+        fontSize="12px"
+      >
+        
+      </span>
+      <span
+        className="c2"
+      >
+        6
+      </span>
+    </button>
+  </div>
+</div>
+`;

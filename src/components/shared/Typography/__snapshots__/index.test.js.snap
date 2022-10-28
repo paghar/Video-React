@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Typography /> checks the UI 1`] = `
+.c0 {
+  font-family: 'Red Hat Text',sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 60px;
+  color: red;
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<span
+  className="c0"
+>
+  hii
+</span>
+`;
+
+exports[`<Typography /> has checks the UI 1`] = `
+.c0 {
+  font-family: 'Red Hat Text',sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 50px;
+  color: red;
+  pointer-events: auto;
+}
+
+<span
+  className="c0"
+>
+  test
+</span>
+`;

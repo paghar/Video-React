@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<UsedSpace /> when Menu in close mode 1`] = `
+.c0 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c1 {
+  padding-bottom: 8px;
+  display: block;
+}
+
+.c2 {
+  -webkit-text-decoration-line: underline;
+  text-decoration-line: underline;
+  -webkit-text-decoration-style: solid;
+  text-decoration-style: solid;
+}
+
+<div>
+  <span
+    className="c0 c1"
+  >
+    80
+     GB of 
+    250
+     GB used
+  </span>
+  <span
+    className="c0 c2"
+  >
+    Upgrade Now
+  </span>
+</div>
+`;
+
+exports[`<UsedSpace /> when Menu in open mode 1`] = `
+.c0 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c1 {
+  padding-bottom: 8px;
+  display: block;
+}
+
+.c2 {
+  -webkit-text-decoration-line: underline;
+  text-decoration-line: underline;
+  -webkit-text-decoration-style: solid;
+  text-decoration-style: solid;
+}
+
+<div>
+  <span
+    className="c0 c1"
+  >
+    80
+     GB of 
+    250
+     GB used
+  </span>
+  <span
+    className="c0 c2"
+  >
+    Upgrade Now
+  </span>
+</div>
+`;

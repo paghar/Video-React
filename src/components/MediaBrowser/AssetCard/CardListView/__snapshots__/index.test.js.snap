@@ -1,0 +1,1906 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CardListView /> CardListView Snapshot test 1`] = `
+.c2 {
+  pointer-events: auto;
+}
+
+.c7 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c5 {
+  height: 27px;
+  background-color: rgba(0,0,0,0.7);
+  border-radius: 5px;
+  text-align: center;
+  padding-left: 8px;
+  padding-top: 3px;
+  padding-right: 7px;
+}
+
+.c18 {
+  height: 27px;
+  background-color: rgba(0,0,0,0.7);
+  border-radius: 5px;
+  text-align: center;
+  padding-left: 19px;
+  padding-top: 3px;
+  padding-right: 10px;
+}
+
+.c20:before {
+  content: ' ';
+  width: 7px;
+  height: 7px;
+  background-color: green;
+  border-radius: 100%;
+  position: absolute;
+  top: 10px;
+  left: 8px;
+}
+
+.c10 {
+  font-family: 'FontAwesome' !important;
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c24 {
+  font-size: 12px;
+  display: block;
+  padding-right: 0;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c21 {
+  direction: ltr;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  border-radius: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c21:hover {
+  background-color: transparent;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  margin-left: 9px;
+}
+
+.c3 {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c6 {
+  position: relative;
+  margin-left: 9px;
+}
+
+.c8 {
+  width: 113px;
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  width: 46px;
+}
+
+.c12 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c11 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  margin-right: 3px;
+}
+
+.c13 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  width: 45px;
+}
+
+.c14 {
+  width: 55px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c15 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c16 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  width: 86px;
+}
+
+.c17 {
+  width: 98px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c19 {
+  position: relative;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c23 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  visibility: visible;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  position: absolute;
+  right: 12px;
+}
+
+.c23:hover {
+  cursor: pointer;
+}
+
+.c0 {
+  width: calc(100% - 89px);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+
+.c0:hover .c22 {
+  visibility: visible;
+}
+
+@media (min-width:1141px) {
+  .c1 {
+    width: 213px;
+  }
+}
+
+@media (max-width:1140px) {
+  .c1 {
+    overflow: hidden;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    min-width: 78px;
+    width: 20%;
+  }
+}
+
+@media (max-width:1140px) {
+  .c8 {
+    width: 12%;
+    min-width: 68px;
+  }
+}
+
+@media (max-width:1140px) {
+  .c14 {
+    display: none;
+  }
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <span
+      className="c2 c3"
+    >
+      Day10-month 12-halllow
+    </span>
+    <span
+      className="c2 c4"
+    >
+      .
+      mp4
+    </span>
+    <div
+      className="c5 c6"
+    >
+      <span
+        className="c7 "
+      >
+        v5
+      </span>
+    </div>
+  </div>
+  <span
+    className="c2 c8"
+  >
+    Emily Parkson
+  </span>
+  <div
+    className="c9"
+  >
+    <span
+      className="c10 c11"
+      fontSize="12px"
+    >
+      
+    </span>
+    <span
+      className="c2 c12"
+    >
+      6
+    </span>
+  </div>
+  <span
+    className="c2 c13"
+  >
+    16 MB
+  </span>
+  <div
+    className="c14"
+  >
+    <span
+      className="c2 c15"
+    >
+      12:00
+    </span>
+  </div>
+  <span
+    className="c2 c16"
+  >
+    22th-MAR-22:20
+  </span>
+  <div
+    className="c17"
+  >
+    <div
+      className="c18 c19"
+    >
+      <span
+        className="c7 c20"
+      >
+        In Progress
+      </span>
+    </div>
+  </div>
+  <button
+    className="c21 c22 c23"
+    height="auto"
+    radius="0px"
+    width="auto"
+  >
+    <span
+      className="c10 c24"
+      fontSize="12px"
+    >
+      
+    </span>
+  </button>
+</div>
+`;
+
+exports[`<CardListView /> CardListView Snapshot test selected 1`] = `
+.c2 {
+  pointer-events: auto;
+}
+
+.c17 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c15 {
+  height: 27px;
+  background-color: rgba(0,0,0,0.7);
+  border-radius: 5px;
+  text-align: center;
+  padding-left: 19px;
+  padding-top: 3px;
+  padding-right: 10px;
+}
+
+.c18:before {
+  content: ' ';
+  width: 7px;
+  height: 7px;
+  background-color: red;
+  border-radius: 100%;
+  position: absolute;
+  top: 10px;
+  left: 8px;
+}
+
+.c7 {
+  font-family: 'FontAwesome' !important;
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c22 {
+  font-size: 12px;
+  display: block;
+  padding-right: 0;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c19 {
+  direction: ltr;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  border-radius: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c19:hover {
+  background-color: transparent;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  margin-left: 9px;
+}
+
+.c3 {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c5 {
+  width: 113px;
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  width: 46px;
+}
+
+.c9 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  margin-right: 3px;
+}
+
+.c10 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  width: 45px;
+}
+
+.c11 {
+  width: 55px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c12 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  width: 86px;
+}
+
+.c14 {
+  width: 98px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c16 {
+  position: relative;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c21 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  visibility: visible;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  position: absolute;
+  right: 12px;
+}
+
+.c21:hover {
+  cursor: pointer;
+}
+
+.c0 {
+  width: calc(100% - 89px);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+
+.c0:hover .c20 {
+  visibility: visible;
+}
+
+@media (min-width:1141px) {
+  .c1 {
+    width: 213px;
+  }
+}
+
+@media (max-width:1140px) {
+  .c1 {
+    overflow: hidden;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    min-width: 78px;
+    width: 20%;
+  }
+}
+
+@media (max-width:1140px) {
+  .c5 {
+    width: 12%;
+    min-width: 68px;
+  }
+}
+
+@media (max-width:1140px) {
+  .c11 {
+    display: none;
+  }
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <span
+      className="c2 c3"
+    >
+      Day10-month 12-halllow
+    </span>
+    <span
+      className="c2 c4"
+    >
+      .
+      mp4
+    </span>
+  </div>
+  <span
+    className="c2 c5"
+  >
+    Emily Parkson
+  </span>
+  <div
+    className="c6"
+  >
+    <span
+      className="c7 c8"
+      fontSize="12px"
+    >
+      
+    </span>
+    <span
+      className="c2 c9"
+    />
+  </div>
+  <span
+    className="c2 c10"
+  >
+    16 MB
+  </span>
+  <div
+    className="c11"
+  >
+    <span
+      className="c2 c12"
+    >
+      12:00
+    </span>
+  </div>
+  <span
+    className="c2 c13"
+  >
+    22th-MAR-22:20
+  </span>
+  <div
+    className="c14"
+  >
+    <div
+      className="c15 c16"
+    >
+      <span
+        className="c17 c18"
+      >
+        Rejected
+      </span>
+    </div>
+  </div>
+  <button
+    className="c19 c20 c21"
+    height="auto"
+    radius="0px"
+    width="auto"
+  >
+    <span
+      className="c7 c22"
+      fontSize="12px"
+    >
+      
+    </span>
+  </button>
+</div>
+`;
+
+exports[`<CardListView /> CardListView Snapshot test without comment 1`] = `
+.c2 {
+  pointer-events: auto;
+}
+
+.c7 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c5 {
+  height: 27px;
+  background-color: rgba(0,0,0,0.7);
+  border-radius: 5px;
+  text-align: center;
+  padding-left: 8px;
+  padding-top: 3px;
+  padding-right: 7px;
+}
+
+.c18 {
+  height: 27px;
+  background-color: rgba(0,0,0,0.7);
+  border-radius: 5px;
+  text-align: center;
+  padding-left: 19px;
+  padding-top: 3px;
+  padding-right: 10px;
+}
+
+.c20:before {
+  content: ' ';
+  width: 7px;
+  height: 7px;
+  background-color: red;
+  border-radius: 100%;
+  position: absolute;
+  top: 10px;
+  left: 8px;
+}
+
+.c10 {
+  font-family: 'FontAwesome' !important;
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c24 {
+  font-size: 12px;
+  display: block;
+  padding-right: 0;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c21 {
+  direction: ltr;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  border-radius: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c21:hover {
+  background-color: transparent;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  margin-left: 9px;
+}
+
+.c3 {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c6 {
+  position: relative;
+  margin-left: 9px;
+}
+
+.c8 {
+  width: 113px;
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  width: 46px;
+}
+
+.c12 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c11 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  margin-right: 3px;
+}
+
+.c13 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  width: 45px;
+}
+
+.c14 {
+  width: 55px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c15 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c16 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  width: 86px;
+}
+
+.c17 {
+  width: 98px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c19 {
+  position: relative;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c23 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  visibility: hidden;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  position: absolute;
+  right: 12px;
+}
+
+.c23:hover {
+  cursor: pointer;
+}
+
+.c0 {
+  width: calc(100% - 89px);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+
+.c0:hover .c22 {
+  visibility: visible;
+}
+
+@media (min-width:1141px) {
+  .c1 {
+    width: 213px;
+  }
+}
+
+@media (max-width:1140px) {
+  .c1 {
+    overflow: hidden;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    min-width: 78px;
+    width: 20%;
+  }
+}
+
+@media (max-width:1140px) {
+  .c8 {
+    width: 12%;
+    min-width: 68px;
+  }
+}
+
+@media (max-width:1140px) {
+  .c14 {
+    display: none;
+  }
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <span
+      className="c2 c3"
+    >
+      Day10-month 12-halllow
+    </span>
+    <span
+      className="c2 c4"
+    >
+      .
+      mp4
+    </span>
+    <div
+      className="c5 c6"
+    >
+      <span
+        className="c7 "
+      >
+        v5
+      </span>
+    </div>
+  </div>
+  <span
+    className="c2 c8"
+  >
+    Emily Parkson
+  </span>
+  <div
+    className="c9"
+  >
+    <span
+      className="c10 c11"
+      fontSize="12px"
+    >
+      
+    </span>
+    <span
+      className="c2 c12"
+    />
+  </div>
+  <span
+    className="c2 c13"
+  >
+    16 MB
+  </span>
+  <div
+    className="c14"
+  >
+    <span
+      className="c2 c15"
+    >
+      12:00
+    </span>
+  </div>
+  <span
+    className="c2 c16"
+  >
+    22th-MAR-22:20
+  </span>
+  <div
+    className="c17"
+  >
+    <div
+      className="c18 c19"
+    >
+      <span
+        className="c7 c20"
+      >
+        Rejected
+      </span>
+    </div>
+  </div>
+  <button
+    className="c21 c22 c23"
+    height="auto"
+    radius="0px"
+    width="auto"
+  >
+    <span
+      className="c10 c24"
+      fontSize="12px"
+    >
+      
+    </span>
+  </button>
+</div>
+`;
+
+exports[`<CardListView /> CardListView Snapshot test without status 1`] = `
+.c2 {
+  pointer-events: auto;
+}
+
+.c7 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c5 {
+  height: 27px;
+  background-color: rgba(0,0,0,0.7);
+  border-radius: 5px;
+  text-align: center;
+  padding-left: 8px;
+  padding-top: 3px;
+  padding-right: 7px;
+}
+
+.c10 {
+  font-family: 'FontAwesome' !important;
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c21 {
+  font-size: 12px;
+  display: block;
+  padding-right: 0;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c18 {
+  direction: ltr;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  border-radius: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c18:hover {
+  background-color: transparent;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  margin-left: 9px;
+}
+
+.c3 {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c6 {
+  position: relative;
+  margin-left: 9px;
+}
+
+.c8 {
+  width: 113px;
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  width: 46px;
+}
+
+.c12 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c11 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  margin-right: 3px;
+}
+
+.c13 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  width: 45px;
+}
+
+.c14 {
+  width: 55px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c15 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c16 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  width: 86px;
+}
+
+.c17 {
+  width: 98px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c20 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  visibility: hidden;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  position: absolute;
+  right: 12px;
+}
+
+.c20:hover {
+  cursor: pointer;
+}
+
+.c0 {
+  width: calc(100% - 89px);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+
+.c0:hover .c19 {
+  visibility: visible;
+}
+
+@media (min-width:1141px) {
+  .c1 {
+    width: 213px;
+  }
+}
+
+@media (max-width:1140px) {
+  .c1 {
+    overflow: hidden;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    min-width: 78px;
+    width: 20%;
+  }
+}
+
+@media (max-width:1140px) {
+  .c8 {
+    width: 12%;
+    min-width: 68px;
+  }
+}
+
+@media (max-width:1140px) {
+  .c14 {
+    display: none;
+  }
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <span
+      className="c2 c3"
+    >
+      Day10-month 12-halllow
+    </span>
+    <span
+      className="c2 c4"
+    >
+      .
+      mp4
+    </span>
+    <div
+      className="c5 c6"
+    >
+      <span
+        className="c7 "
+      >
+        v5
+      </span>
+    </div>
+  </div>
+  <span
+    className="c2 c8"
+  >
+    Emily Parkson
+  </span>
+  <div
+    className="c9"
+  >
+    <span
+      className="c10 c11"
+      fontSize="12px"
+    >
+      
+    </span>
+    <span
+      className="c2 c12"
+    >
+      6
+    </span>
+  </div>
+  <span
+    className="c2 c13"
+  >
+    16 MB
+  </span>
+  <div
+    className="c14"
+  >
+    <span
+      className="c2 c15"
+    >
+      12:00
+    </span>
+  </div>
+  <span
+    className="c2 c16"
+  >
+    22th-MAR-22:20
+  </span>
+  <div
+    className="c17"
+  >
+    <span
+      className="c10 c11"
+      fontSize="12px"
+    >
+      
+    </span>
+  </div>
+  <button
+    className="c18 c19 c20"
+    height="auto"
+    radius="0px"
+    width="auto"
+  >
+    <span
+      className="c10 c21"
+      fontSize="12px"
+    >
+      
+    </span>
+  </button>
+</div>
+`;
+
+exports[`<CardListView /> CardListView Snapshot test without version 1`] = `
+.c2 {
+  pointer-events: auto;
+}
+
+.c17 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c15 {
+  height: 27px;
+  background-color: rgba(0,0,0,0.7);
+  border-radius: 5px;
+  text-align: center;
+  padding-left: 19px;
+  padding-top: 3px;
+  padding-right: 10px;
+}
+
+.c18:before {
+  content: ' ';
+  width: 7px;
+  height: 7px;
+  background-color: red;
+  border-radius: 100%;
+  position: absolute;
+  top: 10px;
+  left: 8px;
+}
+
+.c7 {
+  font-family: 'FontAwesome' !important;
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c22 {
+  font-size: 12px;
+  display: block;
+  padding-right: 0;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c19 {
+  direction: ltr;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  border-radius: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c19:hover {
+  background-color: transparent;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  margin-left: 9px;
+}
+
+.c3 {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c5 {
+  width: 113px;
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  width: 46px;
+}
+
+.c9 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  margin-right: 3px;
+}
+
+.c10 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  width: 45px;
+}
+
+.c11 {
+  width: 55px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c12 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  width: 86px;
+}
+
+.c14 {
+  width: 98px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c16 {
+  position: relative;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c21 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  visibility: hidden;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  position: absolute;
+  right: 12px;
+}
+
+.c21:hover {
+  cursor: pointer;
+}
+
+.c0 {
+  width: calc(100% - 89px);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+
+.c0:hover .c20 {
+  visibility: visible;
+}
+
+@media (min-width:1141px) {
+  .c1 {
+    width: 213px;
+  }
+}
+
+@media (max-width:1140px) {
+  .c1 {
+    overflow: hidden;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    min-width: 78px;
+    width: 20%;
+  }
+}
+
+@media (max-width:1140px) {
+  .c5 {
+    width: 12%;
+    min-width: 68px;
+  }
+}
+
+@media (max-width:1140px) {
+  .c11 {
+    display: none;
+  }
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <span
+      className="c2 c3"
+    >
+      Day10-month 12-halllow
+    </span>
+    <span
+      className="c2 c4"
+    >
+      .
+      mp4
+    </span>
+  </div>
+  <span
+    className="c2 c5"
+  >
+    Emily Parkson
+  </span>
+  <div
+    className="c6"
+  >
+    <span
+      className="c7 c8"
+      fontSize="12px"
+    >
+      
+    </span>
+    <span
+      className="c2 c9"
+    />
+  </div>
+  <span
+    className="c2 c10"
+  >
+    16 MB
+  </span>
+  <div
+    className="c11"
+  >
+    <span
+      className="c2 c12"
+    >
+      12:00
+    </span>
+  </div>
+  <span
+    className="c2 c13"
+  >
+    22th-MAR-22:20
+  </span>
+  <div
+    className="c14"
+  >
+    <div
+      className="c15 c16"
+    >
+      <span
+        className="c17 c18"
+      >
+        Rejected
+      </span>
+    </div>
+  </div>
+  <button
+    className="c19 c20 c21"
+    height="auto"
+    radius="0px"
+    width="auto"
+  >
+    <span
+      className="c7 c22"
+      fontSize="12px"
+    >
+      
+    </span>
+  </button>
+</div>
+`;

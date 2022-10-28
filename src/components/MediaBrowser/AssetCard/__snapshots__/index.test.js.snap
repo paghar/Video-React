@@ -1,0 +1,1227 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AssetCard /> Asset Card Snapshot test selected 1`] = `
+.c4 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c2 {
+  font-family: 'FontAwesome' !important;
+  font-size: 35px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c17 {
+  font-family: 'FontAwesome' !important;
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c18 {
+  font-size: 12px;
+  display: block;
+  padding-right: 0;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c23 {
+  font-size: 12px;
+  display: block;
+  padding-right: 4px;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c14 {
+  direction: ltr;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  border-radius: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c14:hover {
+  background-color: transparent;
+}
+
+.c7 {
+  width: 100%;
+  height: 100%;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  pointer-events: none;
+  object-fit: contain;
+}
+
+.c9 {
+  position: relative;
+  padding-left: 10px;
+  padding-right: 5px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-pack: end;
+  -webkit-justify-content: end;
+  -ms-flex-pack: end;
+  justify-content: end;
+}
+
+.c11 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 2.4%;
+  margin-bottom: auto;
+}
+
+.c19 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: auto;
+  margin-bottom: 3.3%;
+}
+
+.c12 {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.c13 {
+  padding-right: 4px;
+}
+
+.c20 {
+  height: 21px;
+  border-radius: 5px;
+  text-align: center;
+  padding-right: 7px;
+  padding-left: 7px;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.c21 {
+  width: auto;
+}
+
+.c22 {
+  margin-left: auto;
+}
+
+.c16 {
+  margin-left: auto;
+  margin-right: 6px;
+  padding-right: 0;
+  visibility: hidden;
+  cursor: pointer;
+}
+
+.c3 {
+  margin-top: -14px;
+}
+
+.c5 {
+  text-align: center;
+  margin-top: 7px;
+}
+
+.c1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 98%;
+  z-index: 19;
+  display: none;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  background-color: rgba(0,0,0,0.28);
+}
+
+.c10 {
+  height: calc(100% - 141px);
+}
+
+.c24:hover .c15 {
+  visibility: visible;
+}
+
+.c6 {
+  box-shadow: 0 0 0 3px;
+  border-radius: 7px;
+  width: 100%;
+  height: 201px;
+  overflow: hidden;
+  position: relative;
+  margin: 0;
+  border-radius: 7px;
+  box-shadow: 0 0 0 3px;
+}
+
+.c6:hover .c15 {
+  visibility: visible;
+}
+
+.c8 {
+  height: 141px;
+  z-index: 2;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  width: 250px;
+  padding: 0px;
+  margin: 0;
+  background-color: transparent;
+  border-radius: 7px;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: -webkit-transform 250ms;
+  -webkit-transition: transform 250ms;
+  transition: transform 250ms;
+}
+
+.c0:hover {
+  cursor: pointer;
+}
+
+.c0:hover:hover .c25 {
+  visibility: visible;
+}
+
+@media (max-width:1250px) {
+  .c0 {
+    width: 250px;
+  }
+}
+
+<div
+  className="c0"
+  onMouseDown={[Function]}
+  selected={true}
+  width={250}
+>
+  <div
+    className="c1"
+  >
+    <span
+      className="c2 c3"
+      fontSize="35px"
+    >
+      
+    </span>
+    <span
+      className="c4 c5"
+    >
+      Add a version
+    </span>
+  </div>
+  <div
+    className="c6"
+    selected={true}
+    width={250}
+  >
+    <img
+      className="c7 c8"
+      src="Colleagues_looking_at_information_on_mobile_phone_screen_Videos_Mixkit.png"
+    />
+    <div
+      className="c9 c10"
+    >
+      <div
+        className="c11"
+      >
+        <span
+          className="c4 c12"
+        >
+          Day10-month 12-halllow
+        </span>
+        <span
+          className="c4 c13"
+        >
+          .
+          mp4
+        </span>
+        <button
+          className="c14 c15 c16"
+          height="auto"
+          radius="0px"
+          width="auto"
+        >
+          <span
+            className="c17 c18"
+            fontSize="12px"
+          >
+            
+          </span>
+        </button>
+      </div>
+      <div
+        className="c19"
+      >
+        <span
+          className="c4 c20"
+        >
+          12:00
+        </span>
+        <span
+          className="c4 c21"
+        >
+          16 MB
+        </span>
+        <button
+          className="c14 c22"
+          height="auto"
+          radius="0px"
+          width="auto"
+        >
+          <span
+            className="c17 c23"
+            fontSize="12px"
+          >
+            
+          </span>
+          <span
+            className="c4"
+          >
+            6
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<AssetCard /> Asset Card Snapshot test with label 1`] = `
+.c4 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c7 {
+  height: 27px;
+  background-color: rgba(0,0,0,0.7);
+  border-radius: 5px;
+  text-align: center;
+  padding-left: 19px;
+  padding-top: 3px;
+  padding-right: 10px;
+}
+
+.c9:before {
+  content: ' ';
+  width: 7px;
+  height: 7px;
+  background-color: green;
+  border-radius: 100%;
+  position: absolute;
+  top: 10px;
+  left: 8px;
+}
+
+.c2 {
+  font-family: 'FontAwesome' !important;
+  font-size: 35px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c20 {
+  font-family: 'FontAwesome' !important;
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c21 {
+  font-size: 12px;
+  display: block;
+  padding-right: 0;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c26 {
+  font-size: 12px;
+  display: block;
+  padding-right: 4px;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c17 {
+  direction: ltr;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  border-radius: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c17:hover {
+  background-color: transparent;
+}
+
+.c10 {
+  width: 100%;
+  height: 100%;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  pointer-events: none;
+  object-fit: contain;
+}
+
+.c12 {
+  position: relative;
+  padding-left: 10px;
+  padding-right: 5px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-pack: end;
+  -webkit-justify-content: end;
+  -ms-flex-pack: end;
+  justify-content: end;
+}
+
+.c14 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 2.4%;
+  margin-bottom: auto;
+}
+
+.c22 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: auto;
+  margin-bottom: 3.3%;
+}
+
+.c15 {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.c16 {
+  padding-right: 4px;
+}
+
+.c23 {
+  height: 21px;
+  border-radius: 5px;
+  text-align: center;
+  padding-right: 7px;
+  padding-left: 7px;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.c24 {
+  width: auto;
+}
+
+.c25 {
+  margin-left: auto;
+}
+
+.c19 {
+  margin-left: auto;
+  margin-right: 6px;
+  padding-right: 0;
+  visibility: hidden;
+  cursor: pointer;
+}
+
+.c3 {
+  margin-top: -14px;
+}
+
+.c5 {
+  text-align: center;
+  margin-top: 7px;
+}
+
+.c1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 98%;
+  z-index: 19;
+  display: none;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  background-color: rgba(0,0,0,0.28);
+}
+
+.c13 {
+  height: calc(100% - 141px);
+}
+
+.c6 {
+  box-shadow: 0 0 0 3px transparent;
+  border-radius: 7px;
+  width: 100%;
+  height: 201px;
+  overflow: hidden;
+  position: relative;
+  margin: 0;
+  border-radius: 7px;
+  box-shadow: 0 0 0 3px transparent;
+}
+
+.c6:hover .c18 {
+  visibility: visible;
+}
+
+.c8 {
+  position: absolute;
+  top: 9px;
+  left: 10px;
+  cursor: pointer;
+  z-index: 3;
+}
+
+.c11 {
+  height: 141px;
+  z-index: 2;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  width: 250px;
+  padding: 0px;
+  margin: 0;
+  background-color: transparent;
+  border-radius: 7px;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: -webkit-transform 250ms;
+  -webkit-transition: transform 250ms;
+  transition: transform 250ms;
+}
+
+.c0:hover {
+  cursor: pointer;
+}
+
+.c0:hover:hover .c27 {
+  visibility: visible;
+}
+
+@media (max-width:1250px) {
+  .c0 {
+    width: 250px;
+  }
+}
+
+<div
+  className="c0"
+  onMouseDown={[Function]}
+  width={250}
+>
+  <div
+    className="c1"
+  >
+    <span
+      className="c2 c3"
+      fontSize="35px"
+    >
+      
+    </span>
+    <span
+      className="c4 c5"
+    >
+      Add a version
+    </span>
+  </div>
+  <div
+    className="c6"
+    width={250}
+  >
+    <div
+      className="c7 c8"
+    >
+      <span
+        className="c4 c9"
+      >
+        In Progress
+      </span>
+    </div>
+    <img
+      className="c10 c11"
+      src="Colleagues_looking_at_information_on_mobile_phone_screen_Videos_Mixkit.png"
+    />
+    <div
+      className="c12 c13"
+    >
+      <div
+        className="c14"
+      >
+        <span
+          className="c4 c15"
+        >
+          Day10-month 12-halllow
+        </span>
+        <span
+          className="c4 c16"
+        >
+          .
+          mp4
+        </span>
+        <button
+          className="c17 c18 c19"
+          height="auto"
+          radius="0px"
+          width="auto"
+        >
+          <span
+            className="c20 c21"
+            fontSize="12px"
+          >
+            
+          </span>
+        </button>
+      </div>
+      <div
+        className="c22"
+      >
+        <span
+          className="c4 c23"
+        >
+          12:00
+        </span>
+        <span
+          className="c4 c24"
+        >
+          16 MB
+        </span>
+        <button
+          className="c17 c25"
+          height="auto"
+          radius="0px"
+          width="auto"
+        >
+          <span
+            className="c20 c26"
+            fontSize="12px"
+          >
+            
+          </span>
+          <span
+            className="c4"
+          >
+            6
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<AssetCard /> Asset Card Snapshot test without label 1`] = `
+.c4 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c7 {
+  height: 27px;
+  background-color: rgba(0,0,0,0.7);
+  border-radius: 5px;
+  text-align: center;
+  padding-left: 8px;
+  padding-top: 3px;
+  padding-right: 7px;
+}
+
+.c2 {
+  font-family: 'FontAwesome' !important;
+  font-size: 35px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c19 {
+  font-family: 'FontAwesome' !important;
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c20 {
+  font-size: 12px;
+  display: block;
+  padding-right: 0;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c25 {
+  font-size: 12px;
+  display: block;
+  padding-right: 4px;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c16 {
+  direction: ltr;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  border-radius: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c16:hover {
+  background-color: transparent;
+}
+
+.c9 {
+  width: 100%;
+  height: 100%;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  pointer-events: none;
+  object-fit: contain;
+}
+
+.c11 {
+  position: relative;
+  padding-left: 10px;
+  padding-right: 5px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-pack: end;
+  -webkit-justify-content: end;
+  -ms-flex-pack: end;
+  justify-content: end;
+}
+
+.c13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 2.4%;
+  margin-bottom: auto;
+}
+
+.c21 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: auto;
+  margin-bottom: 3.3%;
+}
+
+.c14 {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.c15 {
+  padding-right: 4px;
+}
+
+.c22 {
+  height: 21px;
+  border-radius: 5px;
+  text-align: center;
+  padding-right: 7px;
+  padding-left: 7px;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.c23 {
+  width: auto;
+}
+
+.c24 {
+  margin-left: auto;
+}
+
+.c18 {
+  margin-left: auto;
+  margin-right: 6px;
+  padding-right: 0;
+  visibility: hidden;
+  cursor: pointer;
+}
+
+.c3 {
+  margin-top: -14px;
+}
+
+.c5 {
+  text-align: center;
+  margin-top: 7px;
+}
+
+.c1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 98%;
+  z-index: 19;
+  display: none;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  background-color: rgba(0,0,0,0.28);
+}
+
+.c12 {
+  height: calc(100% - 141px);
+}
+
+.c6 {
+  box-shadow: 0 0 0 3px transparent;
+  border-radius: 7px;
+  width: 100%;
+  height: 201px;
+  overflow: hidden;
+  position: relative;
+  margin: 0;
+  border-radius: 7px;
+  box-shadow: 0 0 0 3px transparent;
+}
+
+.c6:hover .c17 {
+  visibility: visible;
+}
+
+.c8 {
+  position: absolute;
+  top: 9px;
+  right: 10px;
+  cursor: pointer;
+  z-index: 3;
+}
+
+.c10 {
+  height: 141px;
+  z-index: 2;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  width: 250px;
+  padding: 0px;
+  margin: 0;
+  background-color: transparent;
+  border-radius: 7px;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: -webkit-transform 250ms;
+  -webkit-transition: transform 250ms;
+  transition: transform 250ms;
+}
+
+.c0:hover {
+  cursor: pointer;
+}
+
+.c0:hover:hover .c26 {
+  visibility: visible;
+}
+
+@media (max-width:1250px) {
+  .c0 {
+    width: 250px;
+  }
+}
+
+<div
+  className="c0"
+  onMouseDown={[Function]}
+  width={250}
+>
+  <div
+    className="c1"
+  >
+    <span
+      className="c2 c3"
+      fontSize="35px"
+    >
+      
+    </span>
+    <span
+      className="c4 c5"
+    >
+      Add a version
+    </span>
+  </div>
+  <div
+    className="c6"
+    width={250}
+  >
+    <div
+      className="c7 c8"
+    >
+      <span
+        className="c4 "
+      >
+        v3
+      </span>
+    </div>
+    <img
+      className="c9 c10"
+      src="Colleagues_looking_at_information_on_mobile_phone_screen_Videos_Mixkit.png"
+    />
+    <div
+      className="c11 c12"
+    >
+      <div
+        className="c13"
+      >
+        <span
+          className="c4 c14"
+        >
+          Day10-month 12-halllow
+        </span>
+        <span
+          className="c4 c15"
+        >
+          .
+          mp4
+        </span>
+        <button
+          className="c16 c17 c18"
+          height="auto"
+          radius="0px"
+          width="auto"
+        >
+          <span
+            className="c19 c20"
+            fontSize="12px"
+          >
+            
+          </span>
+        </button>
+      </div>
+      <div
+        className="c21"
+      >
+        <span
+          className="c4 c22"
+        >
+          12:00
+        </span>
+        <span
+          className="c4 c23"
+        >
+          16 MB
+        </span>
+        <button
+          className="c16 c24"
+          height="auto"
+          radius="0px"
+          width="auto"
+        >
+          <span
+            className="c19 c25"
+            fontSize="12px"
+          >
+            
+          </span>
+          <span
+            className="c4"
+          >
+            6
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

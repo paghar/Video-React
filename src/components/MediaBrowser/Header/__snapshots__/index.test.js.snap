@@ -1,0 +1,585 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MediaBrowserHeader /> Header Snapshot test 1`] = `
+.c5 {
+  font-family: 'FontAwesome' !important;
+  font-size: 15px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c9 {
+  font-family: 'FontAwesome' !important;
+  font-size: 13px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c16 {
+  font-family: 'FontAwesome' !important;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c21 {
+  font-family: 'FontAwesome' !important;
+  font-size: 14px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c10 {
+  font-size: 13px;
+  display: block;
+  padding-right: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c17 {
+  display: none;
+  padding-right: 0px;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c22 {
+  font-size: 14px;
+  display: block;
+  padding-right: 4.8px;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c25 {
+  font-size: 13px;
+  display: block;
+  padding-right: 4.8px;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c28 {
+  font-size: 15px;
+  display: block;
+  padding-right: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c7 {
+  direction: rtl;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  width: 31px;
+  height: 31px;
+  border-radius: 50%;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c14 {
+  direction: ltr;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  width: 33px;
+  height: 33px;
+  border-radius: 100%;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c19 {
+  direction: ltr;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  width: 75px;
+  height: 34px;
+  border-radius: 5px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c23 {
+  direction: ltr;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  width: 63px;
+  height: 34px;
+  border-radius: 5px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c26 {
+  direction: rtl;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  background-color: transparent;
+  width: 31px;
+  height: 31px;
+  border-radius: 50%;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c4 {
+  outline: none;
+  border: none;
+  background: none;
+  width: 100%;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.c4 {
+  outline: none;
+  border: none;
+  background: none;
+  width: 100%;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.c4 {
+  outline: none;
+  border: none;
+  background: none;
+  width: 100%;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.c4 {
+  outline: none;
+  border: none;
+  background: none;
+  width: 100%;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.c6 {
+  padding-right: 0px;
+  padding-left: 14px;
+  font-size: 15px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c2 {
+  box-sizing: border-box;
+  -webkit-align-content: stretch;
+  -ms-flex-line-pack: stretch;
+  align-content: stretch;
+  direction: ltr;
+  border-radius: 40px;
+  width: 223px;
+  height: 31px;
+  padding-right: 14px;
+  padding-left: 14px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c0 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c3 {
+  margin-left: auto;
+}
+
+.c8 {
+  margin-left: auto;
+  margin-right: 8px;
+}
+
+.c20 {
+  margin-left: 11px;
+}
+
+.c24 {
+  margin-left: 7px;
+}
+
+.c27 {
+  margin-left: 4px;
+}
+
+.c1 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c18 {
+  pointer-events: auto;
+}
+
+.c12 {
+  background-color: background-image:url(christopher-campbell-rDEOVtE7vOs-unsplash.png);
+  background-size: 100% 100%;
+  width: 33px;
+  height: 33px;
+  border-radius: 100%;
+  border: 2px solid #0d0d1a;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  outline: none;
+}
+
+.c11 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c13 {
+  margin-left: -8px;
+}
+
+.c13:first-child {
+  margin-left: 0;
+}
+
+.c15 {
+  border: 2px solid #000;
+  margin-left: -8px;
+}
+
+<div
+  className="c0"
+>
+  <span
+    className="c1"
+  >
+    Animal House
+  </span>
+  <div
+    className="c2 c3"
+    height="31px"
+    width="223px"
+  >
+    <input
+      className="c4"
+      onChange={[Function]}
+      placeholder="Search here..."
+      value=""
+    />
+    <span
+      className="c5 c6"
+      fontSize="15px"
+      onClick={[Function]}
+    >
+      
+    </span>
+  </div>
+  <button
+    className="c7 c8"
+    height="31px"
+    onClick={[Function]}
+    radius="50%"
+    width="31px"
+  >
+    <span
+      className="c9 c10"
+      fontSize="13px"
+    >
+      
+    </span>
+  </button>
+  <div
+    className="c11"
+    onClick={[Function]}
+  >
+    <button
+      className="c12 c13"
+      height="33px"
+      width="33px"
+    />
+    <button
+      className="c12 c13"
+      height="33px"
+      width="33px"
+    />
+    <button
+      className="c14 c15"
+      height="33px"
+      radius="100%"
+      width="33px"
+    >
+      <span
+        className="c16 c17"
+      >
+         
+      </span>
+      <span
+        className="c18"
+      >
+        +3
+      </span>
+    </button>
+  </div>
+  <button
+    className="c19 c20"
+    height="34px"
+    onClick={[Function]}
+    radius="5px"
+    width="75px"
+  >
+    <span
+      className="c21 c22"
+      fontSize="14px"
+    >
+      
+    </span>
+    <span
+      className="c18"
+    >
+      Share
+    </span>
+  </button>
+  <button
+    className="c23 c24"
+    height="34px"
+    onClick={[Function]}
+    radius="5px"
+    width="63px"
+  >
+    <span
+      className="c9 c25"
+      fontSize="13px"
+    >
+      
+    </span>
+    <span
+      className="c18"
+    >
+      New
+    </span>
+  </button>
+  <button
+    className="c26 c27"
+    height="31px"
+    onClick={[Function]}
+    radius="50%"
+    width="31px"
+  >
+    <span
+      className="c5 c28"
+      fontSize="15px"
+    >
+      
+    </span>
+  </button>
+</div>
+`;

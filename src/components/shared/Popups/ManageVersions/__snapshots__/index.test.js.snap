@@ -1,0 +1,1339 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ManageVersions /> ManageVersionsWithMore3Items 1`] = `
+.c2 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c4 {
+  font-family: 'FontAwesome' !important;
+  font-size: 14px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c17 {
+  font-family: 'FontAwesome' !important;
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c22 {
+  font-family: 'FontAwesome' !important;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c5 {
+  font-size: 14px;
+  display: block;
+  padding-right: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c18 {
+  font-size: 12px;
+  display: block;
+  padding-right: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c23 {
+  display: none;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c3 {
+  direction: rtl;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  border-radius: 50%;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c14 {
+  direction: rtl;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  width: 12px;
+  border-radius: 50%;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c20 {
+  direction: ltr;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  border-radius: 5px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c16 {
+  display: none;
+  margin-left: 20px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  pointer: cursor;
+}
+
+.c9 {
+  width: 385px;
+  border: 1px solid;
+  border-radius: 7px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 10px 0px 10px 13px;
+}
+
+.c9:hover {
+  box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.15);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.c9:hover .c15 {
+  display: inline;
+}
+
+.c11 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  margin-right: 13px;
+}
+
+.c12 {
+  width: 85px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  margin-right: 15px;
+}
+
+.c13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c0 {
+  width: 425px;
+  border-radius: 7px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin: 20px 20px 0px 20px;
+}
+
+.c6 {
+  margin: 5px 0px 12px 20px;
+}
+
+.c7 {
+  margin: 0px 7px 0px 7px;
+  padding: 0px 13px 0px 13px;
+  background-color: overflow-x:hidden;
+}
+
+.c7::-webkit-scrollbar {
+  width: 3px;
+  height: 10px;
+}
+
+.c7::-webkit-scrollbar-track {
+  background-color: -webkit-border-radius:3px;
+  border-radius: 3px;
+  margin: 10px;
+}
+
+.c7::-webkit-scrollbar-thumb {
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+}
+
+.c8 {
+  padding-bottom: 5px;
+}
+
+.c10 {
+  margin: 0px;
+}
+
+.c19 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  margin: 15px 20px 20px 0px;
+}
+
+.c21 {
+  padding: 7px 12px;
+  pointer: cursor;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <span
+      className="c2"
+    >
+      Manage versions
+    </span>
+    <button
+      className="c3"
+      onClick={[MockFunction]}
+      radius="50%"
+    >
+      <span
+        className="c4 c5"
+        fontSize="14px"
+      >
+        
+      </span>
+    </button>
+  </div>
+  <span
+    className="c2 c6"
+  >
+    3
+     versions
+  </span>
+  <div
+    className="c7"
+  >
+    <div
+      data-rbd-droppable-context-id="3"
+      data-rbd-droppable-id="droppable"
+    >
+      <div
+        aria-labelledby="rbd-lift-instruction-3"
+        data-rbd-drag-handle-context-id="3"
+        data-rbd-drag-handle-draggable-id="1"
+        data-rbd-draggable-context-id="3"
+        data-rbd-draggable-id="1"
+        draggable={false}
+        onDragStart={[Function]}
+        onTransitionEnd={null}
+        style={
+          Object {
+            "transform": null,
+            "transition": null,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c8"
+        >
+          <div
+            className="c9 c10"
+          >
+            <span
+              className="c2 c11"
+            >
+              V1
+            </span>
+            <img
+              className="c12"
+              src="Man_in_biker_1.png"
+            />
+            <div
+              className="c13"
+            >
+              <span
+                className="c2"
+              >
+                Day10-month 12-halllow day.MP4
+              </span>
+              <span
+                className="c2"
+              >
+                John Rasel . Sep 3rd . 15:30
+              </span>
+            </div>
+            <button
+              className="c14 c15 c16"
+              onClick={[Function]}
+              radius="50%"
+              width="12px"
+            >
+              <span
+                className="c17 c18"
+                fontSize="12px"
+              >
+                
+              </span>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        aria-labelledby="rbd-lift-instruction-3"
+        data-rbd-drag-handle-context-id="3"
+        data-rbd-drag-handle-draggable-id="2"
+        data-rbd-draggable-context-id="3"
+        data-rbd-draggable-id="2"
+        draggable={false}
+        onDragStart={[Function]}
+        onTransitionEnd={null}
+        style={
+          Object {
+            "transform": null,
+            "transition": null,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c8"
+        >
+          <div
+            className="c9 c10"
+          >
+            <span
+              className="c2 c11"
+            >
+              V2
+            </span>
+            <img
+              className="c12"
+              src="Man_in_biker_1.png"
+            />
+            <div
+              className="c13"
+            >
+              <span
+                className="c2"
+              >
+                Day10-month 12-halllow day.MP4
+              </span>
+              <span
+                className="c2"
+              >
+                John Rasel . Sep 3rd . 15:30
+              </span>
+            </div>
+            <button
+              className="c14 c15 c16"
+              onClick={[Function]}
+              radius="50%"
+              width="12px"
+            >
+              <span
+                className="c17 c18"
+                fontSize="12px"
+              >
+                
+              </span>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        aria-labelledby="rbd-lift-instruction-3"
+        data-rbd-drag-handle-context-id="3"
+        data-rbd-drag-handle-draggable-id="3"
+        data-rbd-draggable-context-id="3"
+        data-rbd-draggable-id="3"
+        draggable={false}
+        onDragStart={[Function]}
+        onTransitionEnd={null}
+        style={
+          Object {
+            "transform": null,
+            "transition": null,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c8"
+        >
+          <div
+            className="c9 c10"
+          >
+            <span
+              className="c2 c11"
+            >
+              V3
+            </span>
+            <img
+              className="c12"
+              src="Man_in_biker_1.png"
+            />
+            <div
+              className="c13"
+            >
+              <span
+                className="c2"
+              >
+                Day10-month 12-halllow day.MP4
+              </span>
+              <span
+                className="c2"
+              >
+                John Rasel . Sep 3rd . 15:30
+              </span>
+            </div>
+            <button
+              className="c14 c15 c16"
+              onClick={[Function]}
+              radius="50%"
+              width="12px"
+            >
+              <span
+                className="c17 c18"
+                fontSize="12px"
+              >
+                
+              </span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="c19"
+  >
+    <button
+      className="c20 c21"
+      onClick={[MockFunction]}
+      radius="5px"
+    >
+      <span
+        className="c22 c23"
+      >
+         
+      </span>
+      <span
+        className="c2"
+      >
+        Unversion All
+      </span>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`<ManageVersions /> ManageVersionsWithMore5Items 1`] = `
+.c2 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c4 {
+  font-family: 'FontAwesome' !important;
+  font-size: 14px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c17 {
+  font-family: 'FontAwesome' !important;
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c22 {
+  font-family: 'FontAwesome' !important;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c5 {
+  font-size: 14px;
+  display: block;
+  padding-right: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c18 {
+  font-size: 12px;
+  display: block;
+  padding-right: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c23 {
+  display: none;
+  padding-left: 0px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c3 {
+  direction: rtl;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  border-radius: 50%;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c14 {
+  direction: rtl;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  width: 12px;
+  border-radius: 50%;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c20 {
+  direction: ltr;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: none;
+  background: none;
+  border-radius: 5px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c16 {
+  display: none;
+  margin-left: 20px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  pointer: cursor;
+}
+
+.c9 {
+  width: 385px;
+  border: 1px solid;
+  border-radius: 7px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 10px 0px 10px 13px;
+}
+
+.c9:hover {
+  box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.15);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.c9:hover .c15 {
+  display: inline;
+}
+
+.c11 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  margin-right: 13px;
+}
+
+.c12 {
+  width: 85px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  margin-right: 15px;
+}
+
+.c13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c0 {
+  width: 425px;
+  border-radius: 7px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin: 20px 20px 0px 20px;
+}
+
+.c6 {
+  margin: 5px 0px 12px 20px;
+}
+
+.c7 {
+  margin: 0px 7px 0px 7px;
+  padding: 0px 13px 0px 13px;
+  background-color: height:365px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.c7::-webkit-scrollbar {
+  width: 3px;
+  height: 10px;
+}
+
+.c7::-webkit-scrollbar-track {
+  background-color: -webkit-border-radius:3px;
+  border-radius: 3px;
+  margin: 10px;
+}
+
+.c7::-webkit-scrollbar-thumb {
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+}
+
+.c8 {
+  padding-bottom: 5px;
+}
+
+.c10 {
+  margin: 0px;
+}
+
+.c19 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  margin: 15px 20px 20px 0px;
+}
+
+.c21 {
+  padding: 7px 12px;
+  pointer: cursor;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <span
+      className="c2"
+    >
+      Manage versions
+    </span>
+    <button
+      className="c3"
+      onClick={[MockFunction]}
+      radius="50%"
+    >
+      <span
+        className="c4 c5"
+        fontSize="14px"
+      >
+        
+      </span>
+    </button>
+  </div>
+  <span
+    className="c2 c6"
+  >
+    6
+     versions
+  </span>
+  <div
+    className="c7"
+  >
+    <div
+      data-rbd-droppable-context-id="4"
+      data-rbd-droppable-id="droppable"
+    >
+      <div
+        aria-labelledby="rbd-lift-instruction-4"
+        data-rbd-drag-handle-context-id="4"
+        data-rbd-drag-handle-draggable-id="1"
+        data-rbd-draggable-context-id="4"
+        data-rbd-draggable-id="1"
+        draggable={false}
+        onDragStart={[Function]}
+        onTransitionEnd={null}
+        style={
+          Object {
+            "transform": null,
+            "transition": null,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c8"
+        >
+          <div
+            className="c9 c10"
+          >
+            <span
+              className="c2 c11"
+            >
+              V1
+            </span>
+            <img
+              className="c12"
+              src="Man_in_biker_1.png"
+            />
+            <div
+              className="c13"
+            >
+              <span
+                className="c2"
+              >
+                Day10-month 12-halllow day.MP4
+              </span>
+              <span
+                className="c2"
+              >
+                John Rasel . Sep 3rd . 15:30
+              </span>
+            </div>
+            <button
+              className="c14 c15 c16"
+              onClick={[Function]}
+              radius="50%"
+              width="12px"
+            >
+              <span
+                className="c17 c18"
+                fontSize="12px"
+              >
+                
+              </span>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        aria-labelledby="rbd-lift-instruction-4"
+        data-rbd-drag-handle-context-id="4"
+        data-rbd-drag-handle-draggable-id="2"
+        data-rbd-draggable-context-id="4"
+        data-rbd-draggable-id="2"
+        draggable={false}
+        onDragStart={[Function]}
+        onTransitionEnd={null}
+        style={
+          Object {
+            "transform": null,
+            "transition": null,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c8"
+        >
+          <div
+            className="c9 c10"
+          >
+            <span
+              className="c2 c11"
+            >
+              V2
+            </span>
+            <img
+              className="c12"
+              src="Man_in_biker_1.png"
+            />
+            <div
+              className="c13"
+            >
+              <span
+                className="c2"
+              >
+                Day10-month 12-halllow day.MP4
+              </span>
+              <span
+                className="c2"
+              >
+                John Rasel . Sep 3rd . 15:30
+              </span>
+            </div>
+            <button
+              className="c14 c15 c16"
+              onClick={[Function]}
+              radius="50%"
+              width="12px"
+            >
+              <span
+                className="c17 c18"
+                fontSize="12px"
+              >
+                
+              </span>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        aria-labelledby="rbd-lift-instruction-4"
+        data-rbd-drag-handle-context-id="4"
+        data-rbd-drag-handle-draggable-id="3"
+        data-rbd-draggable-context-id="4"
+        data-rbd-draggable-id="3"
+        draggable={false}
+        onDragStart={[Function]}
+        onTransitionEnd={null}
+        style={
+          Object {
+            "transform": null,
+            "transition": null,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c8"
+        >
+          <div
+            className="c9 c10"
+          >
+            <span
+              className="c2 c11"
+            >
+              V3
+            </span>
+            <img
+              className="c12"
+              src="Man_in_biker_1.png"
+            />
+            <div
+              className="c13"
+            >
+              <span
+                className="c2"
+              >
+                Day10-month 12-halllow day.MP4
+              </span>
+              <span
+                className="c2"
+              >
+                John Rasel . Sep 3rd . 15:30
+              </span>
+            </div>
+            <button
+              className="c14 c15 c16"
+              onClick={[Function]}
+              radius="50%"
+              width="12px"
+            >
+              <span
+                className="c17 c18"
+                fontSize="12px"
+              >
+                
+              </span>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        aria-labelledby="rbd-lift-instruction-4"
+        data-rbd-drag-handle-context-id="4"
+        data-rbd-drag-handle-draggable-id="4"
+        data-rbd-draggable-context-id="4"
+        data-rbd-draggable-id="4"
+        draggable={false}
+        onDragStart={[Function]}
+        onTransitionEnd={null}
+        style={
+          Object {
+            "transform": null,
+            "transition": null,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c8"
+        >
+          <div
+            className="c9 c10"
+          >
+            <span
+              className="c2 c11"
+            >
+              V4
+            </span>
+            <img
+              className="c12"
+              src="Man_in_biker_1.png"
+            />
+            <div
+              className="c13"
+            >
+              <span
+                className="c2"
+              >
+                Day10-month 12-halllow day.MP4
+              </span>
+              <span
+                className="c2"
+              >
+                John Rasel . Sep 3rd . 15:30
+              </span>
+            </div>
+            <button
+              className="c14 c15 c16"
+              onClick={[Function]}
+              radius="50%"
+              width="12px"
+            >
+              <span
+                className="c17 c18"
+                fontSize="12px"
+              >
+                
+              </span>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        aria-labelledby="rbd-lift-instruction-4"
+        data-rbd-drag-handle-context-id="4"
+        data-rbd-drag-handle-draggable-id="5"
+        data-rbd-draggable-context-id="4"
+        data-rbd-draggable-id="5"
+        draggable={false}
+        onDragStart={[Function]}
+        onTransitionEnd={null}
+        style={
+          Object {
+            "transform": null,
+            "transition": null,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c8"
+        >
+          <div
+            className="c9 c10"
+          >
+            <span
+              className="c2 c11"
+            >
+              V5
+            </span>
+            <img
+              className="c12"
+              src="Man_in_biker_1.png"
+            />
+            <div
+              className="c13"
+            >
+              <span
+                className="c2"
+              >
+                Day10-month 12-halllow day.MP4
+              </span>
+              <span
+                className="c2"
+              >
+                John Rasel . Sep 3rd . 15:30
+              </span>
+            </div>
+            <button
+              className="c14 c15 c16"
+              onClick={[Function]}
+              radius="50%"
+              width="12px"
+            >
+              <span
+                className="c17 c18"
+                fontSize="12px"
+              >
+                
+              </span>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        aria-labelledby="rbd-lift-instruction-4"
+        data-rbd-drag-handle-context-id="4"
+        data-rbd-drag-handle-draggable-id="6"
+        data-rbd-draggable-context-id="4"
+        data-rbd-draggable-id="6"
+        draggable={false}
+        onDragStart={[Function]}
+        onTransitionEnd={null}
+        style={
+          Object {
+            "transform": null,
+            "transition": null,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c8"
+        >
+          <div
+            className="c9 c10"
+          >
+            <span
+              className="c2 c11"
+            >
+              V6
+            </span>
+            <img
+              className="c12"
+              src="Man_in_biker_1.png"
+            />
+            <div
+              className="c13"
+            >
+              <span
+                className="c2"
+              >
+                Day10-month 12-halllow day.MP4
+              </span>
+              <span
+                className="c2"
+              >
+                John Rasel . Sep 3rd . 15:30
+              </span>
+            </div>
+            <button
+              className="c14 c15 c16"
+              onClick={[Function]}
+              radius="50%"
+              width="12px"
+            >
+              <span
+                className="c17 c18"
+                fontSize="12px"
+              >
+                
+              </span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="c19"
+  >
+    <button
+      className="c20 c21"
+      onClick={[MockFunction]}
+      radius="5px"
+    >
+      <span
+        className="c22 c23"
+      >
+         
+      </span>
+      <span
+        className="c2"
+      >
+        Unversion All
+      </span>
+    </button>
+  </div>
+</div>
+`;

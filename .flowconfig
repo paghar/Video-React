@@ -1,0 +1,25 @@
+[ignore]
+.*/flow-typed/npm/*
+./src/**/*.less
+./src/**/*.json
+.*/node_modules/**/*.less
+.*/node_modules/**/*.json
+
+[libs]
+flow-typed
+styled-components
+
+[options]
+suppress_comment= \\(.\\|\n\\)*\\$FlowFixMe
+module.name_mapper='^components\(.*\)$' -> '<PROJECT_ROOT>/src/components\1'
+module.name_mapper='^containers\(.*\)$' -> '<PROJECT_ROOT>/src/containers\1'
+module.name_mapper='^assets\(.*\)$' -> '<PROJECT_ROOT>/src/assets\1'
+module.name_mapper='^pages\(.*\)$' -> '<PROJECT_ROOT>/src/pages\1'
+module.name_mapper='^routes\(.*\)$' -> '<PROJECT_ROOT>/src/routes\1'
+module.name_mapper='^serviceWorker\(.*\)$' -> '<PROJECT_ROOT>/src/serviceWorker\1'
+module.name_mapper='^theme\(.*\)$' -> '<PROJECT_ROOT>/src/theme\1'
+module.name_mapper='^constants\(.*\)$' -> '<PROJECT_ROOT>/src/constants\1'
+module.name_mapper='^helpers\(.*\)$' -> '<PROJECT_ROOT>/src/helpers\1'
+
+[include]
+./src/**

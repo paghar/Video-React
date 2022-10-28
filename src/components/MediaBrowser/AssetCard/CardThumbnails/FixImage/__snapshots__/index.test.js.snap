@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AssetCardFixImageThumbnail /> Fix Image Thumbnail Snapshot test 1`] = `
+.c0 {
+  width: 100%;
+  height: 100%;
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  pointer-events: none;
+  object-fit: contain;
+}
+
+<img
+  className="c0"
+  src="Colleagues_looking_at_information_on_mobile_phone_screen_Videos_Mixkit.png"
+/>
+`;

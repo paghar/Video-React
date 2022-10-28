@@ -1,0 +1,877 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ListPopup /> InvitePeopleDropDownList 1`] = `
+.c0 {
+  background-color: width:126px;
+  height: 118px;
+  border-radius: 7px;
+  margin: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  box-shadow: 0 3px 8px 0 rgba(0,0,0,0.2);
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 27px;
+}
+
+.c1:hover .c4 {
+  display: block;
+}
+
+.c2 {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 3px 0px 3px 5px;
+  margin: 0px 5px 0px 5px;
+  cursor: pointer;
+}
+
+.c2:hover {
+  border-radius: 5px;
+}
+
+.c3 {
+  pointer-events: auto;
+}
+
+<div
+  className="c0"
+  height="118px"
+  width="126px"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      onClick={[Function]}
+    >
+      <span
+        className="c3"
+      >
+        Collabrator
+      </span>
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      onClick={[Function]}
+    >
+      <span
+        className="c3"
+      >
+        Project owner
+      </span>
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      onClick={[Function]}
+    >
+      <span
+        className="c3"
+      >
+        Team member
+      </span>
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      onClick={[Function]}
+    >
+      <span
+        className="c3"
+      >
+        Admin
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<ListPopup /> RightClickPopup 1`] = `
+.c3 {
+  font-family: 'FontAwesome' !important;
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c0 {
+  background-color: width:151px;
+  height: 145x;
+  border-radius: 7px;
+  margin: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  box-shadow: 0 3px 8px 0 rgba(0,0,0,0.2);
+}
+
+.c4 {
+  margin-right: 8px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 27px;
+}
+
+.c1:hover .c6 {
+  display: block;
+}
+
+.c2 {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 3px 0px 3px 5px;
+  margin: 0px 5px 0px 5px;
+  cursor: pointer;
+}
+
+.c2:hover {
+  border-radius: 5px;
+}
+
+.c5 {
+  pointer-events: auto;
+}
+
+<div
+  className="c0"
+  height="145x"
+  width="151px"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      onClick={[Function]}
+    >
+      <span
+        className="c3 c4"
+        fontSize="12px"
+      >
+        
+      </span>
+      <span
+        className="c5"
+      >
+        Share
+      </span>
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      onClick={[Function]}
+    >
+      <span
+        className="c3 c4"
+        fontSize="12px"
+      >
+        
+      </span>
+      <span
+        className="c5"
+      >
+        Download
+      </span>
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      onClick={[Function]}
+    >
+      <span
+        className="c3 c4"
+        fontSize="12px"
+      >
+        
+      </span>
+      <span
+        className="c5"
+      >
+        Rename
+      </span>
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      onClick={[Function]}
+    >
+      <span
+        className="c3 c4"
+        fontSize="12px"
+      >
+        
+      </span>
+      <span
+        className="c5"
+      >
+        Manage versions
+      </span>
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      onClick={[Function]}
+    >
+      <span
+        className="c3 c4"
+        fontSize="12px"
+      >
+        
+      </span>
+      <span
+        className="c5"
+      >
+        Delete
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<ListPopup /> SortPopup 1`] = `
+.c0 {
+  background-color: width:121px;
+  height: 199px;
+  border-radius: 7px;
+  margin: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  box-shadow: 0 3px 8px 0 rgba(0,0,0,0.2);
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 27px;
+}
+
+.c1:hover .c4 {
+  display: block;
+}
+
+.c2 {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 3px 0px 3px 5px;
+  margin: 0px 5px 0px 5px;
+  cursor: pointer;
+}
+
+.c2:hover {
+  border-radius: 5px;
+}
+
+.c3 {
+  pointer-events: auto;
+}
+
+<div
+  className="c0"
+  height="199px"
+  width="121px"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      onClick={[Function]}
+    >
+      <span
+        className="c3"
+      >
+        Name
+      </span>
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      onClick={[Function]}
+    >
+      <span
+        className="c3"
+      >
+        Size
+      </span>
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      onClick={[Function]}
+    >
+      <span
+        className="c3"
+      >
+        Type
+      </span>
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      onClick={[Function]}
+    >
+      <span
+        className="c3"
+      >
+        Date uploaded
+      </span>
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      onClick={[Function]}
+    >
+      <span
+        className="c3"
+      >
+        Status
+      </span>
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      onClick={[Function]}
+    >
+      <span
+        className="c3"
+      >
+        Tag
+      </span>
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      onClick={[Function]}
+    >
+      <span
+        className="c3"
+      >
+        Custom
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<ListPopup /> SpaceRightClickPopup 1`] = `
+.c3 {
+  font-family: 'FontAwesome' !important;
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c10 {
+  background-color: width:121px;
+  height: 199px;
+  border-radius: 7px;
+  margin: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  box-shadow: 0 3px 8px 0 rgba(0,0,0,0.2);
+}
+
+.c0 {
+  background-color: width:139px;
+  height: 102px;
+  border-radius: 7px;
+  margin: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  box-shadow: 0 3px 8px 0 rgba(0,0,0,0.2);
+}
+
+.c4 {
+  margin-right: 8px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c7 {
+  margin-left: 46px;
+  margin-right: 5px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c9 {
+  display: none;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 27px;
+}
+
+.c1:hover .c8 {
+  display: block;
+}
+
+.c2 {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 3px 0px 3px 5px;
+  margin: 0px 5px 0px 5px;
+  cursor: pointer;
+}
+
+.c2:hover {
+  border-radius: 5px;
+}
+
+.c6 {
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0,0,0,0.1);
+  border-bottom: 1px solid rgba(255,255,255,0.4);
+  margin: 6px 0px 2px 0px;
+}
+
+.c5 {
+  pointer-events: auto;
+}
+
+<div
+  className="c0"
+  height="102px"
+  width="139px"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      onClick={[Function]}
+    >
+      <span
+        className="c3 c4"
+        fontSize="12px"
+      >
+        
+      </span>
+      <span
+        className="c5"
+      >
+        New folder
+      </span>
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      onClick={[Function]}
+    >
+      <span
+        className="c3 c4"
+        fontSize="12px"
+      >
+        
+      </span>
+      <span
+        className="c5"
+      >
+        Project setting
+      </span>
+    </div>
+  </div>
+  <hr
+    className="c6"
+  />
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      onClick={[Function]}
+    >
+      <span
+        className="c3 c4"
+        fontSize="12px"
+      >
+        
+      </span>
+      <span
+        className="c5"
+      >
+        Sort by 
+      </span>
+      <span
+        className="c3 c7"
+        fontSize="12px"
+      >
+        
+      </span>
+    </div>
+    <div
+      className="c8 c9"
+    >
+      <div
+        className="c10"
+        height="199px"
+        width="121px"
+      >
+        <div
+          className="c1"
+        >
+          <div
+            className="c2"
+            onClick={[Function]}
+          >
+            <span
+              className="c5"
+            >
+              Name
+            </span>
+          </div>
+        </div>
+        <div
+          className="c1"
+        >
+          <div
+            className="c2"
+            onClick={[Function]}
+          >
+            <span
+              className="c5"
+            >
+              Size
+            </span>
+          </div>
+        </div>
+        <div
+          className="c1"
+        >
+          <div
+            className="c2"
+            onClick={[Function]}
+          >
+            <span
+              className="c5"
+            >
+              Type
+            </span>
+          </div>
+        </div>
+        <div
+          className="c1"
+        >
+          <div
+            className="c2"
+            onClick={[Function]}
+          >
+            <span
+              className="c5"
+            >
+              Date uploaded
+            </span>
+          </div>
+        </div>
+        <div
+          className="c1"
+        >
+          <div
+            className="c2"
+            onClick={[Function]}
+          >
+            <span
+              className="c5"
+            >
+              Status
+            </span>
+          </div>
+        </div>
+        <div
+          className="c1"
+        >
+          <div
+            className="c2"
+            onClick={[Function]}
+          >
+            <span
+              className="c5"
+            >
+              Tag
+            </span>
+          </div>
+        </div>
+        <div
+          className="c1"
+        >
+          <div
+            className="c2"
+            onClick={[Function]}
+          >
+            <span
+              className="c5"
+            >
+              Custom
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<ListPopup /> StatusPopup 1`] = `
+.c3 {
+  font-family: 'FontAwesome' !important;
+  font-size: 8px;
+  margin: 0px;
+  padding: 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c0 {
+  background-color: width:108px;
+  height: 118x;
+  border-radius: 7px;
+  margin: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  box-shadow: 0 3px 8px 0 rgba(0,0,0,0.2);
+}
+
+.c4 {
+  margin-right: 8px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 27px;
+}
+
+.c1:hover .c6 {
+  display: block;
+}
+
+.c2 {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 3px 0px 3px 5px;
+  margin: 0px 5px 0px 5px;
+  cursor: pointer;
+}
+
+.c2:hover {
+  border-radius: 5px;
+}
+
+.c5 {
+  pointer-events: auto;
+}
+
+<div
+  className="c0"
+  height="118x"
+  width="108px"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      onClick={[Function]}
+    >
+      <span
+        className="c3 c4"
+        fontSize="8px"
+      >
+        
+      </span>
+      <span
+        className="c5"
+      >
+        In Progress
+      </span>
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      onClick={[Function]}
+    >
+      <span
+        className="c3 c4"
+        fontSize="8px"
+      >
+        
+      </span>
+      <span
+        className="c5"
+      >
+        In Review
+      </span>
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      onClick={[Function]}
+    >
+      <span
+        className="c3 c4"
+        fontSize="8px"
+      >
+        
+      </span>
+      <span
+        className="c5"
+      >
+        Done
+      </span>
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      onClick={[Function]}
+    >
+      <span
+        className="c3 c4"
+        fontSize="8px"
+      >
+        
+      </span>
+      <span
+        className="c5"
+      >
+        No status
+      </span>
+    </div>
+  </div>
+</div>
+`;

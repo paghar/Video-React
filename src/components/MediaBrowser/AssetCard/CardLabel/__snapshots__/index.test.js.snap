@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AssetCardLabel /> AssetCardLabel Snapshot test 1`] = `
+.c1 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c0 {
+  height: 27px;
+  background-color: rgba(0,0,0,0.7);
+  border-radius: 5px;
+  text-align: center;
+  padding-left: 19px;
+  padding-top: 3px;
+  padding-right: 10px;
+}
+
+.c2:before {
+  content: ' ';
+  width: 7px;
+  height: 7px;
+  background-color: green;
+  border-radius: 100%;
+  position: absolute;
+  top: 10px;
+  left: 8px;
+}
+
+<div
+  className="c0"
+>
+  <span
+    className="c1 c2"
+  >
+    In Progress
+  </span>
+</div>
+`;
+
+exports[`<AssetCardLabel /> AssetCardLabel Snapshot test without color 1`] = `
+.c1 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c0 {
+  height: 27px;
+  background-color: rgba(0,0,0,0.7);
+  border-radius: 5px;
+  text-align: center;
+  padding-left: 8px;
+  padding-top: 3px;
+  padding-right: 7px;
+}
+
+<div
+  className="c0"
+>
+  <span
+    className="c1 "
+  >
+    In Progress
+  </span>
+</div>
+`;

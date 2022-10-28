@@ -1,0 +1,446 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AssetCardUnknownThumbnail /> VideoSequences Thumbnail Snapshot test when there is mouse hover on (30,0) 1`] = `
+.c0 {
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.c2 {
+  content: ' ';
+  width: 100%;
+  height: 100%;
+  background-image: url(thumb_scrub.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  z-index: 1;
+}
+
+.c1 {
+  content: ' ';
+  width: 3px;
+  height: 100%;
+  position: absolute;
+  z-index: 2;
+  pointer-events: none;
+}
+
+<VideoSequences
+  sequenceSize={
+    Object {
+      "height": 135,
+      "width": 240,
+    }
+  }
+  sequencesCount={50}
+  sequencesSrc="thumb_scrub.jpg"
+  width={250}
+>
+  <styled.div
+    onMouseMove={[Function]}
+    onMouseOut={[Function]}
+  >
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-bdVaJa",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  outline: none;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  position: relative;
+",
+            ],
+          },
+          "displayName": "styled.div",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "sc-bdVaJa",
+          "target": "div",
+          "toString": [Function],
+          "usesTheme": false,
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={
+        Object {
+          "current": .c0 {
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.c2 {
+  content: ' ';
+  width: 100%;
+  height: 100%;
+  background-image: url(thumb_scrub.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  z-index: 1;
+}
+
+.c1 {
+  content: ' ';
+  width: 3px;
+  height: 100%;
+  position: absolute;
+  z-index: 2;
+  pointer-events: none;
+}
+
+<div
+            class="c0"
+          >
+            <div
+              class="c1"
+              style="transform: translateX(30px);"
+            />
+            <div
+              class="c2"
+              style="background-position-y: -NaNpx;"
+            />
+          </div>,
+        }
+      }
+      onMouseMove={[Function]}
+      onMouseOut={[Function]}
+    >
+      <div
+        className="c0"
+        onMouseMove={[Function]}
+        onMouseOut={[Function]}
+      >
+        <styled.div
+          style={
+            Object {
+              "transform": "translateX(30px)",
+            }
+          }
+        >
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-htpNat",
+                  "isStatic": false,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "
+  content: ' ';
+  width: 3px;
+  height: 100%;
+  position: absolute;
+  z-index: 2;
+  pointer-events: none;
+  background-color: ",
+                    [Function],
+                    ";
+",
+                  ],
+                },
+                "displayName": "styled.div",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "sc-htpNat",
+                "target": "div",
+                "toString": [Function],
+                "usesTheme": false,
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            style={
+              Object {
+                "transform": "translateX(30px)",
+              }
+            }
+          >
+            <div
+              className="c1"
+              style={
+                Object {
+                  "transform": "translateX(30px)",
+                }
+              }
+            />
+          </StyledComponent>
+        </styled.div>
+        <styled.div
+          sequencesSrc="thumb_scrub.jpg"
+          style={
+            Object {
+              "backgroundPositionY": "-NaNpx",
+            }
+          }
+        >
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-bwzfXH",
+                  "isStatic": false,
+                  "lastClassName": "c2",
+                  "rules": Array [
+                    "
+  content: ' ';
+  width: 100%;
+  height: 100%;
+  background-image: url(",
+                    [Function],
+                    ");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  z-index: 1;
+",
+                  ],
+                },
+                "displayName": "styled.div",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "sc-bwzfXH",
+                "target": "div",
+                "toString": [Function],
+                "usesTheme": false,
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            sequencesSrc="thumb_scrub.jpg"
+            style={
+              Object {
+                "backgroundPositionY": "-NaNpx",
+              }
+            }
+          >
+            <div
+              className="c2"
+              style={
+                Object {
+                  "backgroundPositionY": "-NaNpx",
+                }
+              }
+            />
+          </StyledComponent>
+        </styled.div>
+      </div>
+    </StyledComponent>
+  </styled.div>
+</VideoSequences>
+`;
+
+exports[`<AssetCardUnknownThumbnail /> VideoSequences Thumbnail Snapshot test when there is mouse hover on (30,0) 2`] = `
+.c0 {
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.c1 {
+  content: ' ';
+  width: 100%;
+  height: 100%;
+  background-image: url(thumb_scrub.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  z-index: 1;
+}
+
+<VideoSequences
+  sequenceSize={
+    Object {
+      "height": 135,
+      "width": 240,
+    }
+  }
+  sequencesCount={50}
+  sequencesSrc="thumb_scrub.jpg"
+  width={250}
+>
+  <styled.div
+    onMouseMove={[Function]}
+    onMouseOut={[Function]}
+  >
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-bdVaJa",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "
+  outline: none;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  position: relative;
+",
+            ],
+          },
+          "displayName": "styled.div",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "sc-bdVaJa",
+          "target": "div",
+          "toString": [Function],
+          "usesTheme": false,
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={
+        Object {
+          "current": <div
+            class="c0"
+          >
+            <div
+              class="c1"
+              style="background-position-y: -0px;"
+            />
+          </div>,
+        }
+      }
+      onMouseMove={[Function]}
+      onMouseOut={[Function]}
+    >
+      <div
+        className="c0"
+        onMouseMove={[Function]}
+        onMouseOut={[Function]}
+      >
+        <styled.div
+          sequencesSrc="thumb_scrub.jpg"
+          style={
+            Object {
+              "backgroundPositionY": "-0px",
+            }
+          }
+        >
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-bwzfXH",
+                  "isStatic": false,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "
+  content: ' ';
+  width: 100%;
+  height: 100%;
+  background-image: url(",
+                    [Function],
+                    ");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  z-index: 1;
+",
+                  ],
+                },
+                "displayName": "styled.div",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "sc-bwzfXH",
+                "target": "div",
+                "toString": [Function],
+                "usesTheme": false,
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            sequencesSrc="thumb_scrub.jpg"
+            style={
+              Object {
+                "backgroundPositionY": "-0px",
+              }
+            }
+          >
+            <div
+              className="c1"
+              style={
+                Object {
+                  "backgroundPositionY": "-0px",
+                }
+              }
+            />
+          </StyledComponent>
+        </styled.div>
+      </div>
+    </StyledComponent>
+  </styled.div>
+</VideoSequences>
+`;
+
+exports[`<AssetCardUnknownThumbnail /> VideoSequences Thumbnail Snapshot test when there is no mouse hover 1`] = `
+.c0 {
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.c1 {
+  content: ' ';
+  width: 100%;
+  height: 100%;
+  background-image: url(thumb_scrub.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  z-index: 1;
+}
+
+<div
+  className="c0"
+  onMouseMove={[Function]}
+  onMouseOut={[Function]}
+>
+  <div
+    className="c1"
+    style={
+      Object {
+        "backgroundPositionY": "-0px",
+      }
+    }
+  />
+</div>
+`;

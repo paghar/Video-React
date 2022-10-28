@@ -1,0 +1,223 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Avatar /> Avatar 1`] = `
+.c0 {
+  background-color: #7b7b9a;
+  background-image: url(christopher-campbell-rDEOVtE7vOs-unsplash.png);
+  background-size: 100% 100%;
+  width: 53px;
+  height: 53px;
+  border-radius: 100%;
+  border: 0px solid #0d0d1a;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  outline: none;
+}
+
+<button
+  className="c0"
+  height="53px"
+  width="53px"
+/>
+`;
+
+exports[`<Avatar /> No image Avatar 1`] = `
+.c0 {
+  background-color: #7b7b9a;
+  background-size: 100% 100%;
+  width: 53px;
+  height: 53px;
+  border-radius: 100%;
+  border: 0px solid #0d0d1a;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  outline: none;
+}
+
+.c1 {
+  color: #ffffff;
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<button
+  className="c0"
+  height="53px"
+  width="53px"
+>
+  <span
+    className="c1"
+  >
+    PZ
+  </span>
+</button>
+`;
+
+exports[`<Avatar /> With border 1`] = `
+.c0 {
+  background-color: #7b7b9a;
+  background-size: 100% 100%;
+  width: 53px;
+  height: 53px;
+  border-radius: 100%;
+  border: 2px solid #0d0d1a;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  outline: none;
+}
+
+.c1 {
+  color: #ffffff;
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<button
+  className="c0"
+  height="53px"
+  width="53px"
+>
+  <span
+    className="c1"
+  >
+    PZ
+  </span>
+</button>
+`;
+
+exports[`<Avatar /> With image border 1`] = `
+.c0 {
+  background-color: #7b7b9a;
+  background-image: url(christopher-campbell-rDEOVtE7vOs-unsplash.png);
+  background-size: 100% 100%;
+  width: 53px;
+  height: 53px;
+  border-radius: 100%;
+  border: 2px solid #0d0d1a;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  outline: none;
+}
+
+<button
+  className="c0"
+  height="53px"
+  width="53px"
+/>
+`;
+
+exports[`<Avatar /> different radius 1`] = `
+.c0 {
+  background-color: #7b7b9a;
+  background-image: url(christopher-campbell-rDEOVtE7vOs-unsplash.png);
+  background-size: 100% 100%;
+  width: 70px;
+  height: 70px;
+  border-radius: 100%;
+  border: 2px solid #0d0d1a;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  outline: none;
+}
+
+<button
+  className="c0"
+  height="70px"
+  width="70px"
+/>
+`;
+
+exports[`<Avatar /> different size 1`] = `
+.c0 {
+  background-color: #7b7b9a;
+  background-image: url(christopher-campbell-rDEOVtE7vOs-unsplash.png);
+  background-size: 100% 100%;
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  border: 2px solid #0d0d1a;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  outline: none;
+}
+
+<button
+  className="c0"
+  height="100px"
+  width="100px"
+/>
+`;

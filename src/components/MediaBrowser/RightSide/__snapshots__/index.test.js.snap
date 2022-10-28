@@ -1,0 +1,709 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TimeSeprator /> checks the UI 1`] = `
+.c3 {
+  pointer-events: auto;
+}
+
+.c5 {
+  pointer-events: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c7 {
+  outline: none;
+  border: none;
+  background: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  padding: 0px 27px 0px 20px;
+  margin: 30px 0px;
+}
+
+.c9 {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  padding-left: 7px;
+  position: relative;
+}
+
+.c10 {
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  pointer-events: none;
+}
+
+.c12 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.c11 {
+  outline: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  pointer-events: none;
+}
+
+.c8 {
+  background-color: gray;
+  background-size: 100% 100%;
+  width: 24px;
+  height: 24px;
+  border-radius: 100%;
+  border: 0px solid #0d0d1a;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  outline: none;
+}
+
+.c13 {
+  background-color: #fff;
+  background-image: url(christopher-campbell-rDEOVtE7vOs-unsplash.png);
+  background-size: 100% 100%;
+  width: 24px;
+  height: 24px;
+  border-radius: 100%;
+  border: 0px solid #0d0d1a;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  outline: none;
+}
+
+.c14 {
+  background-color: background-image:url(christopher-campbell-rDEOVtE7vOs-unsplash.png);
+  background-size: 100% 100%;
+  width: 24px;
+  height: 24px;
+  border-radius: 100%;
+  border: 0px solid #0d0d1a;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  outline: none;
+}
+
+.c6 {
+  background: none;
+  outline: none;
+  border: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  text-align: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.c16 {
+  border-radius: 10px;
+  width: 3px !important;
+  opacity: 0.3;
+}
+
+.c15 {
+  height: 100%;
+  right: 0px;
+  margin-top: 5px;
+  border-radius: 10px;
+  width: 2px !important;
+  padding: 5px 0px;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 100vh;
+  padding-right: 5px;
+}
+
+.c1 {
+  list-style-type: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  padding: 0px;
+  margin: 0;
+  -webkit-align-content: center;
+  -ms-flex-line-pack: center;
+  align-content: center;
+}
+
+.c2 {
+  -webkit-align-content: center;
+  -ms-flex-line-pack: center;
+  align-content: center;
+  text-align: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  border-bottom: 2px solid;
+  padding: 22px 0 18px 0;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  line-height: 2px;
+}
+
+.c2.is-selected {
+  border-bottom: 3px solid;
+  color: !important;
+}
+
+.c2.is-selected span {
+  color: !important;
+}
+
+.c2:focus {
+  outline: none;
+  border-bottom: 3px solid #005dff;
+  color: white !important;
+  line-height: 3px;
+}
+
+.c2:focus span {
+  color: white !important;
+}
+
+.c4 {
+  padding-top: 20px;
+  display: none;
+  overflow-y: auto;
+  overflow-x: hidden;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+
+.c4.is-selected {
+  -webkit-flex: 1 1 auto;
+  display: block;
+}
+
+<div
+  className="c0"
+  data-tabs={true}
+  onClick={[Function]}
+  onKeyDown={[Function]}
+>
+  <ul
+    className="c1"
+    role="tablist"
+  >
+    <li
+      aria-controls="react-tabs-1"
+      aria-disabled="false"
+      aria-selected="true"
+      className="c2 is-selected"
+      id="react-tabs-0"
+      role="tab"
+      tabIndex="0"
+    >
+      <span
+        className="c3"
+      >
+        Activity
+      </span>
+    </li>
+    <li
+      aria-controls="react-tabs-3"
+      aria-disabled="false"
+      aria-selected="false"
+      className="c2"
+      id="react-tabs-2"
+      role="tab"
+      tabIndex={null}
+    >
+      <span
+        className="c3"
+      >
+        Details
+      </span>
+    </li>
+  </ul>
+  <div
+    aria-labelledby="react-tabs-0"
+    className="c4 is-selected"
+    id="react-tabs-1"
+    role="tabpanel"
+  >
+    <div
+      style={
+        Object {
+          "height": "100%",
+          "overflow": "hidden",
+          "position": "relative",
+          "width": "100%",
+        }
+      }
+    >
+      <div
+        style={
+          Object {
+            "WebkitOverflowScrolling": "touch",
+            "bottom": 0,
+            "left": 0,
+            "marginBottom": 0,
+            "marginRight": 0,
+            "overflow": "scroll",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      >
+        <span
+          className="c5 c6"
+        >
+          Thu.oct 17
+        </span>
+        <div
+          className="c7"
+        >
+          <button
+            className="c8"
+            height="24px"
+            width="24px"
+          >
+            <span
+              className="c5"
+            >
+              SP
+            </span>
+          </button>
+          <div
+            className="c9"
+          >
+            <span
+              className="c3 c10"
+            >
+              1Sara Parker
+            </span>
+            <span
+              className="c3 c11"
+            >
+              Uploaded "aportman family"
+            </span>
+            <span
+              className="c3 c12"
+            >
+              10:32
+            </span>
+          </div>
+        </div>
+        <span
+          className="c5 c6"
+        >
+          Wed.oct 16
+        </span>
+        <div
+          className="c7"
+        >
+          <button
+            className="c13"
+            height="24px"
+            width="24px"
+          />
+          <div
+            className="c9"
+          >
+            <span
+              className="c3 c10"
+            >
+              2Amili Hilton
+            </span>
+            <span
+              className="c3 c11"
+            >
+              Removed 3 files
+            </span>
+            <span
+              className="c3 c12"
+            >
+              10:32
+            </span>
+          </div>
+        </div>
+        <div
+          className="c7"
+        >
+          <button
+            className="c13"
+            height="24px"
+            width="24px"
+          />
+          <div
+            className="c9"
+          >
+            <span
+              className="c3 c10"
+            >
+              3Andrew Sunny
+            </span>
+            <span
+              className="c3 c11"
+            >
+              Shared "aportman family" with Peter Brown.
+            </span>
+            <span
+              className="c3 c12"
+            >
+              10:32
+            </span>
+          </div>
+        </div>
+        <span
+          className="c5 c6"
+        >
+          Mon.oct 14
+        </span>
+        <div
+          className="c7"
+        >
+          <button
+            className="c13"
+            height="24px"
+            width="24px"
+          />
+          <div
+            className="c9"
+          >
+            <span
+              className="c3 c10"
+            >
+              4Pablo Neroda
+            </span>
+            <span
+              className="c3 c11"
+            >
+              Commented on "winter fall"
+            </span>
+            <span
+              className="c3 c12"
+            >
+              7:57
+            </span>
+          </div>
+        </div>
+        <div
+          className="c7"
+        >
+          <button
+            className="c13"
+            height="24px"
+            width="24px"
+          />
+          <div
+            className="c9"
+          >
+            <span
+              className="c3 c10"
+            >
+              5Pablo Neroda
+            </span>
+            <span
+              className="c3 c11"
+            >
+              Commented on "winter fall"
+            </span>
+            <span
+              className="c3 c12"
+            >
+              4:57
+            </span>
+          </div>
+        </div>
+        <div
+          className="c7"
+        >
+          <button
+            className="c13"
+            height="24px"
+            width="24px"
+          />
+          <div
+            className="c9"
+          >
+            <span
+              className="c3 c10"
+            >
+              6Pablo Neroda
+            </span>
+            <span
+              className="c3 c11"
+            >
+              Commented on "winter fall"
+            </span>
+            <span
+              className="c3 c12"
+            >
+              2:57
+            </span>
+          </div>
+        </div>
+        <div
+          className="c7"
+        >
+          <button
+            className="c13"
+            height="24px"
+            width="24px"
+          />
+          <div
+            className="c9"
+          >
+            <span
+              className="c3 c10"
+            >
+              7Pablo Neroda
+            </span>
+            <span
+              className="c3 c11"
+            >
+              Commented on "winter fall"
+            </span>
+            <span
+              className="c3 c12"
+            >
+              0:57
+            </span>
+          </div>
+        </div>
+        <span
+          className="c5 c6"
+        >
+          Sun.oct 13
+        </span>
+        <div
+          className="c7"
+        >
+          <button
+            className="c13"
+            height="24px"
+            width="24px"
+          />
+          <div
+            className="c9"
+          >
+            <span
+              className="c3 c10"
+            >
+              8Pablo Neroda
+            </span>
+            <span
+              className="c3 c11"
+            >
+              Commented on "winter fall"
+            </span>
+            <span
+              className="c3 c12"
+            >
+              14:07
+            </span>
+          </div>
+        </div>
+        <div
+          className="c7"
+        >
+          <button
+            className="c14"
+            height="24px"
+            width="24px"
+          />
+          <div
+            className="c9"
+          >
+            <span
+              className="c3 c10"
+            >
+              8Pablo Neroda
+            </span>
+            <span
+              className="c3 c11"
+            >
+              Commented on "winter fall"
+            </span>
+            <span
+              className="c3 c12"
+            >
+              12:07
+            </span>
+          </div>
+        </div>
+        <span
+          className="c5 c6"
+        >
+          Sat.oct 12
+        </span>
+        <div
+          className="c7"
+        >
+          <button
+            className="c14"
+            height="24px"
+            width="24px"
+          />
+          <div
+            className="c9"
+          >
+            <span
+              className="c3 c10"
+            >
+              9Pablo Neroda
+            </span>
+            <span
+              className="c3 c11"
+            >
+              Commented on "winter fall"
+            </span>
+            <span
+              className="c3 c12"
+            >
+              2:57
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "borderRadius": 3,
+            "bottom": 2,
+            "display": "none",
+            "height": 6,
+            "left": 2,
+            "opacity": 0,
+            "position": "absolute",
+            "right": 2,
+            "transition": "opacity 200ms",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "rgba(0,0,0,.2)",
+              "borderRadius": "inherit",
+              "cursor": "pointer",
+              "display": "block",
+              "height": "100%",
+              "position": "relative",
+            }
+          }
+        />
+      </div>
+      <div
+        className="c15"
+        style={
+          Object {
+            "display": "none",
+            "opacity": 0,
+            "position": "absolute",
+            "transition": "opacity 200ms",
+            "width": 6,
+          }
+        }
+      >
+        <div
+          className="c16"
+          style={
+            Object {
+              "display": "block",
+              "position": "relative",
+              "width": "100%",
+            }
+          }
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    aria-labelledby="react-tabs-2"
+    className="c4"
+    id="react-tabs-3"
+    role="tabpanel"
+  />
+</div>
+`;

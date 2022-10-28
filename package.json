@@ -1,0 +1,116 @@
+{
+  "name": "motionfactoryio-react-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": ".",
+  "dependencies": {
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.1",
+    "history": "^4.10.1",
+    "husky": "^3.0.5",
+    "react": "^16.9.0",
+    "react-beautiful-dnd": "^12.2.0",
+    "react-custom-scrollbars": "^4.2.1",
+    "react-dom": "^16.9.0",
+    "react-draggable": "^4.1.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.1.2",
+    "react-tabs": "^3.0.0",
+    "react-transition-group": "^4.3.0",
+    "shufflejs": "^5.2.3",
+    "styled-components": "^4.4.0",
+    "styled-theming": "^2.2.0"
+  },
+  "scripts": {
+    "flow-typed": "flow-typed",
+    "flow": "flow",
+    "flow-stop": "flow stop",
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "storybook": "start-storybook -p 6006 -s public",
+    "build-storybook": "build-storybook -s public"
+  },
+  "jest": {
+    "snapshotSerializers": [
+      "enzyme-to-json/serializer"
+    ]
+  },
+  "resolutions": {
+    "eslint-loader": "3.0.2"
+  },
+  "heroku-run-build-script": true,
+  "eslintConfig": {
+    "extends": [
+      "airbnb",
+      "react-app",
+      "plugin:import/errors",
+      "plugin:import/warnings"
+    ],
+    "plugins": [
+      "prettier",
+      "better-styled-components"
+    ],
+    "rules": {
+      "prettier/prettier": "error"
+    },
+    "settings": {
+      "import/resolver": {
+        "node": {
+          "moduleDirectory": [
+            "node_modules",
+            "src/"
+          ]
+        }
+      }
+    },
+    "overrides": [
+      {
+        "files": [
+          "**/*.stories.*"
+        ],
+        "rules": {
+          "import/no-anonymous-default-export": "off"
+        }
+      }
+    ]
+  },
+  "husky": {
+    "hooks": {}
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
+    "@storybook/addon-actions": "^6.5.13",
+    "@storybook/addon-essentials": "^6.5.13",
+    "@storybook/addon-interactions": "^6.5.13",
+    "@storybook/addon-links": "^6.5.13",
+    "@storybook/builder-webpack4": "^6.5.13",
+    "@storybook/manager-webpack4": "^6.5.13",
+    "@storybook/node-logger": "^6.5.13",
+    "@storybook/preset-create-react-app": "^3.2.0",
+    "@storybook/react": "^6.5.13",
+    "@storybook/testing-library": "^0.0.13",
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.14.0",
+    "enzyme-to-json": "^3.4.3",
+    "flow-bin": "^0.109.0",
+    "flow-typed": "^2.6.1",
+    "jest-styled-components": "^6.3.3",
+    "react-test-renderer": "^16.9.0"
+  }
+}
